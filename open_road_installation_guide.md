@@ -1,7 +1,9 @@
 ## Introduction:
+This is the installation process of openroad opentool in our local pc. 
 
 ## Pre Requisite:
-1. It is recommended to use the terminal on wsl or ubuntu 
+1. It is recommended to use the terminal on wsl or Ubuntu
+
 ## Steps:
 1. Open terminal on Ubuntu 
 2. Clone and Install Dependencies:
@@ -14,7 +16,7 @@
 
 4. Verify Installation: 
 The binaries should be available on your $PATH after setting up the environment. The make command runs from RTL-GDSII generation for default design gcd with nangate45 PDK.
-    - Open your bashrc and add this line: ~/OpenROAD-flow-scripts/env.sh
+    - Open your bashrc and add this line: `source ~/OpenROAD-flow-scripts/env.sh`
     - yosys -help
     - openroad -help
     - cd flow
