@@ -1,0 +1,958 @@
+Startpoint,Endpoint,Slack
+ instr[4] (input port clocked by clk), riscv/dp/_18868_ (falling edge-triggered flip-flop clocked by clk'),31.98
+ instr[4] (input port clocked by clk), riscv/dp/_18865_ (falling edge-triggered flip-flop clocked by clk'),29.98
+ instr[4] (input port clocked by clk), riscv/dp/_19188_ (falling edge-triggered flip-flop clocked by clk'),37.09
+ instr[4] (input port clocked by clk), riscv/dp/_19412_ (falling edge-triggered flip-flop clocked by clk'),37.28
+ instr[4] (input port clocked by clk), riscv/dp/_18900_ (falling edge-triggered flip-flop clocked by clk'),37.54
+ instr[4] (input port clocked by clk), riscv/dp/_19121_ (falling edge-triggered flip-flop clocked by clk'),37.14
+ instr[4] (input port clocked by clk), riscv/dp/_19284_ (falling edge-triggered flip-flop clocked by clk'),37.30
+ instr[4] (input port clocked by clk), riscv/dp/_18921_ (falling edge-triggered flip-flop clocked by clk'),122.96
+ instr[4] (input port clocked by clk), riscv/dp/_19153_ (falling edge-triggered flip-flop clocked by clk'),28.25
+ instr[4] (input port clocked by clk), riscv/dp/_19281_ (falling edge-triggered flip-flop clocked by clk'),35.77
+ instr[4] (input port clocked by clk), riscv/dp/_18868_ (falling edge-triggered flip-flop clocked by clk'),31.98
+ instr[4] (input port clocked by clk), riscv/dp/_19697_ (falling edge-triggered flip-flop clocked by clk'),36.00
+ instr[4] (input port clocked by clk), riscv/dp/_19156_ (falling edge-triggered flip-flop clocked by clk'),36.87
+ instr[4] (input port clocked by clk), riscv/dp/_19249_ (falling edge-triggered flip-flop clocked by clk'),35.52
+ instr[4] (input port clocked by clk), riscv/dp/_18961_ (falling edge-triggered flip-flop clocked by clk'),35.71
+ instr[4] (input port clocked by clk), riscv/dp/_19348_ (falling edge-triggered flip-flop clocked by clk'),36.65
+ instr[4] (input port clocked by clk), riscv/dp/_19409_ (falling edge-triggered flip-flop clocked by clk'),36.13
+ instr[4] (input port clocked by clk), riscv/dp/_19572_ (falling edge-triggered flip-flop clocked by clk'),36.82
+ instr[4] (input port clocked by clk), riscv/dp/_18932_ (falling edge-triggered flip-flop clocked by clk'),37.42
+ instr[4] (input port clocked by clk), riscv/dp/_19540_ (falling edge-triggered flip-flop clocked by clk'),36.38
+ instr[4] (input port clocked by clk), riscv/dp/_19700_ (falling edge-triggered flip-flop clocked by clk'),36.88
+ instr[4] (input port clocked by clk), riscv/dp/_19604_ (falling edge-triggered flip-flop clocked by clk'),36.47
+ instr[4] (input port clocked by clk), riscv/dp/_18964_ (falling edge-triggered flip-flop clocked by clk'),36.50
+ instr[4] (input port clocked by clk), riscv/dp/_18897_ (falling edge-triggered flip-flop clocked by clk'),35.70
+ instr[4] (input port clocked by clk), riscv/dp/_19185_ (falling edge-triggered flip-flop clocked by clk'),35.66
+ instr[4] (input port clocked by clk), riscv/dp/_19668_ (falling edge-triggered flip-flop clocked by clk'),36.52
+ instr[4] (input port clocked by clk), riscv/dp/_19124_ (falling edge-triggered flip-flop clocked by clk'),37.72
+ instr[4] (input port clocked by clk), riscv/dp/_18865_ (falling edge-triggered flip-flop clocked by clk'),29.98
+ instr[4] (input port clocked by clk), riscv/dp/_19252_ (falling edge-triggered flip-flop clocked by clk'),37.87
+ instr[4] (input port clocked by clk), riscv/dp/_19569_ (falling edge-triggered flip-flop clocked by clk'),36.14
+ instr[4] (input port clocked by clk), riscv/dp/_19345_ (falling edge-triggered flip-flop clocked by clk'),36.05
+ instr[4] (input port clocked by clk), riscv/dp/_19665_ (falling edge-triggered flip-flop clocked by clk'),35.88
+ instr[4] (input port clocked by clk), riscv/dp/_19537_ (falling edge-triggered flip-flop clocked by clk'),37.06
+ instr[4] (input port clocked by clk), riscv/dp/_19601_ (falling edge-triggered flip-flop clocked by clk'),37.12
+ instr[4] (input port clocked by clk), riscv/dp/_19761_ (falling edge-triggered flip-flop clocked by clk'),36.16
+ instr[4] (input port clocked by clk), riscv/dp/_19825_ (falling edge-triggered flip-flop clocked by clk'),36.45
+ instr[4] (input port clocked by clk), riscv/dp/_19729_ (falling edge-triggered flip-flop clocked by clk'),36.82
+ instr[4] (input port clocked by clk), riscv/dp/_19188_ (falling edge-triggered flip-flop clocked by clk'),37.09
+ instr[4] (input port clocked by clk), riscv/dp/_19412_ (falling edge-triggered flip-flop clocked by clk'),37.28
+ instr[4] (input port clocked by clk), riscv/dp/_18900_ (falling edge-triggered flip-flop clocked by clk'),37.54
+ instr[4] (input port clocked by clk), riscv/dp/_19025_ (falling edge-triggered flip-flop clocked by clk'),37.28
+ instr[4] (input port clocked by clk), riscv/dp/_19121_ (falling edge-triggered flip-flop clocked by clk'),37.14
+ instr[4] (input port clocked by clk), riscv/dp/_19284_ (falling edge-triggered flip-flop clocked by clk'),37.30
+ instr[4] (input port clocked by clk), riscv/dp/_18929_ (falling edge-triggered flip-flop clocked by clk'),35.88
+ instr[4] (input port clocked by clk), riscv/dp/_19857_ (falling edge-triggered flip-flop clocked by clk'),36.27
+ instr[4] (input port clocked by clk), riscv/dp/_19153_ (falling edge-triggered flip-flop clocked by clk'),28.25
+ instr[4] (input port clocked by clk), riscv/dp/_19281_ (falling edge-triggered flip-flop clocked by clk'),35.77
+ instr[4] (input port clocked by clk), riscv/dp/_19697_ (falling edge-triggered flip-flop clocked by clk'),36.00
+ instr[4] (input port clocked by clk), riscv/dp/_19377_ (falling edge-triggered flip-flop clocked by clk'),36.27
+ instr[4] (input port clocked by clk), riscv/dp/_19473_ (falling edge-triggered flip-flop clocked by clk'),36.45
+ instr[4] (input port clocked by clk), riscv/dp/_19156_ (falling edge-triggered flip-flop clocked by clk'),36.87
+ instr[4] (input port clocked by clk), riscv/dp/_19249_ (falling edge-triggered flip-flop clocked by clk'),35.52
+ instr[4] (input port clocked by clk), riscv/dp/_19441_ (falling edge-triggered flip-flop clocked by clk'),37.02
+ instr[4] (input port clocked by clk), riscv/dp/_18993_ (falling edge-triggered flip-flop clocked by clk'),36.28
+ instr[4] (input port clocked by clk), riscv/dp/_19220_ (falling edge-triggered flip-flop clocked by clk'),38.87
+ instr[4] (input port clocked by clk), riscv/dp/_19505_ (falling edge-triggered flip-flop clocked by clk'),37.71
+ instr[4] (input port clocked by clk), riscv/dp/_19057_ (falling edge-triggered flip-flop clocked by clk'),36.59
+ instr[4] (input port clocked by clk), riscv/dp/_19313_ (falling edge-triggered flip-flop clocked by clk'),37.41
+ instr[4] (input port clocked by clk), riscv/dp/_19217_ (falling edge-triggered flip-flop clocked by clk'),36.44
+ instr[4] (input port clocked by clk), riscv/dp/_19089_ (falling edge-triggered flip-flop clocked by clk'),36.57
+ instr[4] (input port clocked by clk), riscv/dp/_19860_ (falling edge-triggered flip-flop clocked by clk'),40.59
+ instr[4] (input port clocked by clk), riscv/dp/_19636_ (falling edge-triggered flip-flop clocked by clk'),39.10
+ instr[4] (input port clocked by clk), riscv/dp/_19060_ (falling edge-triggered flip-flop clocked by clk'),38.86
+ instr[4] (input port clocked by clk), riscv/dp/_18996_ (falling edge-triggered flip-flop clocked by clk'),38.98
+ instr[4] (input port clocked by clk), riscv/dp/_19028_ (falling edge-triggered flip-flop clocked by clk'),39.13
+ instr[4] (input port clocked by clk), riscv/dp/_19633_ (falling edge-triggered flip-flop clocked by clk'),36.71
+ instr[4] (input port clocked by clk), riscv/dp/_19476_ (falling edge-triggered flip-flop clocked by clk'),39.03
+ instr[4] (input port clocked by clk), riscv/dp/_19092_ (falling edge-triggered flip-flop clocked by clk'),38.96
+ instr[4] (input port clocked by clk), riscv/dp/_19380_ (falling edge-triggered flip-flop clocked by clk'),39.70
+ instr[4] (input port clocked by clk), riscv/dp/_19508_ (falling edge-triggered flip-flop clocked by clk'),39.33
+ instr[4] (input port clocked by clk), riscv/dp/_19220_ (falling edge-triggered flip-flop clocked by clk'),38.87
+ instr[4] (input port clocked by clk), riscv/dp/_19444_ (falling edge-triggered flip-flop clocked by clk'),41.27
+ instr[4] (input port clocked by clk), riscv/dp/_19764_ (falling edge-triggered flip-flop clocked by clk'),41.77
+ instr[4] (input port clocked by clk), riscv/dp/_19860_ (falling edge-triggered flip-flop clocked by clk'),40.59
+ instr[4] (input port clocked by clk), riscv/dp/_19636_ (falling edge-triggered flip-flop clocked by clk'),39.10
+ instr[4] (input port clocked by clk), riscv/dp/_19060_ (falling edge-triggered flip-flop clocked by clk'),38.86
+ instr[4] (input port clocked by clk), riscv/dp/_18996_ (falling edge-triggered flip-flop clocked by clk'),38.98
+ instr[4] (input port clocked by clk), riscv/dp/_19028_ (falling edge-triggered flip-flop clocked by clk'),39.13
+ instr[4] (input port clocked by clk), riscv/dp/_19316_ (falling edge-triggered flip-flop clocked by clk'),40.39
+ instr[4] (input port clocked by clk), riscv/dp/_19476_ (falling edge-triggered flip-flop clocked by clk'),39.03
+ instr[4] (input port clocked by clk), riscv/dp/_19828_ (falling edge-triggered flip-flop clocked by clk'),41.58
+ instr[4] (input port clocked by clk), riscv/dp/_19380_ (falling edge-triggered flip-flop clocked by clk'),39.70
+ instr[4] (input port clocked by clk), riscv/dp/_19508_ (falling edge-triggered flip-flop clocked by clk'),39.33
+ instr[4] (input port clocked by clk), riscv/dp/_19444_ (falling edge-triggered flip-flop clocked by clk'),41.27
+ instr[4] (input port clocked by clk), riscv/dp/_19764_ (falling edge-triggered flip-flop clocked by clk'),41.77
+ instr[4] (input port clocked by clk), riscv/dp/_19441_ (falling edge-triggered flip-flop clocked by clk'),37.02
+ instr[4] (input port clocked by clk), riscv/dp/_19732_ (falling edge-triggered flip-flop clocked by clk'),44.17
+ instr[4] (input port clocked by clk), riscv/dp/_19316_ (falling edge-triggered flip-flop clocked by clk'),40.39
+ instr[4] (input port clocked by clk), riscv/dp/_19828_ (falling edge-triggered flip-flop clocked by clk'),41.58
+ instr[4] (input port clocked by clk), riscv/dp/_18877_ (falling edge-triggered flip-flop clocked by clk'),46.41
+ instr[4] (input port clocked by clk), riscv/dp/_19732_ (falling edge-triggered flip-flop clocked by clk'),44.17
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18868_ (falling edge-triggered flip-flop clocked by clk'),-52.82
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18865_ (falling edge-triggered flip-flop clocked by clk'),-54.83
+ instr[4] (input port clocked by clk), riscv/dp/_18877_ (falling edge-triggered flip-flop clocked by clk'),46.41
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19188_ (falling edge-triggered flip-flop clocked by clk'),-47.72
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19412_ (falling edge-triggered flip-flop clocked by clk'),-47.52
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18900_ (falling edge-triggered flip-flop clocked by clk'),-47.27
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19121_ (falling edge-triggered flip-flop clocked by clk'),-47.67
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19284_ (falling edge-triggered flip-flop clocked by clk'),-47.51
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18929_ (falling edge-triggered flip-flop clocked by clk'),-48.92
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19153_ (falling edge-triggered flip-flop clocked by clk'),-56.56
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19281_ (falling edge-triggered flip-flop clocked by clk'),-49.03
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19697_ (falling edge-triggered flip-flop clocked by clk'),-48.81
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19156_ (falling edge-triggered flip-flop clocked by clk'),-47.94
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19249_ (falling edge-triggered flip-flop clocked by clk'),-49.29
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18961_ (falling edge-triggered flip-flop clocked by clk'),-49.09
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19348_ (falling edge-triggered flip-flop clocked by clk'),-48.15
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19409_ (falling edge-triggered flip-flop clocked by clk'),-48.67
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19572_ (falling edge-triggered flip-flop clocked by clk'),-47.98
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18932_ (falling edge-triggered flip-flop clocked by clk'),-47.39
+ instr[4] (input port clocked by clk), riscv/dp/_18877_ (falling edge-triggered flip-flop clocked by clk'),46.41
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19540_ (falling edge-triggered flip-flop clocked by clk'),-48.43
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19540_ (falling edge-triggered flip-flop clocked by clk'),-48.43
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19700_ (falling edge-triggered flip-flop clocked by clk'),-47.92
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19604_ (falling edge-triggered flip-flop clocked by clk'),-48.33
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18964_ (falling edge-triggered flip-flop clocked by clk'),-48.30
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18897_ (falling edge-triggered flip-flop clocked by clk'),-49.11
+ instr[4] (input port clocked by clk), riscv/dp/_19732_ (falling edge-triggered flip-flop clocked by clk'),44.17
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19185_ (falling edge-triggered flip-flop clocked by clk'),-49.15
+ instr[4] (input port clocked by clk), riscv/dp/_19197_ (falling edge-triggered flip-flop clocked by clk'),51.05
+ instr[4] (input port clocked by clk), riscv/dp/_18909_ (falling edge-triggered flip-flop clocked by clk'),50.64
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19668_ (falling edge-triggered flip-flop clocked by clk'),-48.28
+ instr[4] (input port clocked by clk), riscv/dp/_19421_ (falling edge-triggered flip-flop clocked by clk'),51.00
+ instr[4] (input port clocked by clk), riscv/dp/_19861_ (falling edge-triggered flip-flop clocked by clk'),89.84
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19124_ (falling edge-triggered flip-flop clocked by clk'),-47.08
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19252_ (falling edge-triggered flip-flop clocked by clk'),-46.93
+ instr[4] (input port clocked by clk), riscv/dp/_19293_ (falling edge-triggered flip-flop clocked by clk'),51.18
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19569_ (falling edge-triggered flip-flop clocked by clk'),-48.66
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19345_ (falling edge-triggered flip-flop clocked by clk'),-48.76
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19665_ (falling edge-triggered flip-flop clocked by clk'),-48.92
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19537_ (falling edge-triggered flip-flop clocked by clk'),-47.75
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19601_ (falling edge-triggered flip-flop clocked by clk'),-47.68
+ instr[4] (input port clocked by clk), riscv/dp/_18941_ (falling edge-triggered flip-flop clocked by clk'),52.44
+ instr[4] (input port clocked by clk), riscv/dp/_19549_ (falling edge-triggered flip-flop clocked by clk'),50.66
+ instr[4] (input port clocked by clk), riscv/dp/_19581_ (falling edge-triggered flip-flop clocked by clk'),51.33
+ instr[4] (input port clocked by clk), riscv/dp/_19613_ (falling edge-triggered flip-flop clocked by clk'),51.41
+ instr[4] (input port clocked by clk), riscv/dp/_18973_ (falling edge-triggered flip-flop clocked by clk'),51.54
+ instr[4] (input port clocked by clk), riscv/dp/_19357_ (falling edge-triggered flip-flop clocked by clk'),52.37
+ instr[4] (input port clocked by clk), riscv/dp/_19165_ (falling edge-triggered flip-flop clocked by clk'),50.61
+ instr[4] (input port clocked by clk), riscv/dp/_19613_ (falling edge-triggered flip-flop clocked by clk'),51.41
+ instr[4] (input port clocked by clk), riscv/dp/_19709_ (falling edge-triggered flip-flop clocked by clk'),51.54
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19761_ (falling edge-triggered flip-flop clocked by clk'),-48.64
+ instr[4] (input port clocked by clk), riscv/dp/_19133_ (falling edge-triggered flip-flop clocked by clk'),50.84
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19825_ (falling edge-triggered flip-flop clocked by clk'),-48.35
+ instr[4] (input port clocked by clk), riscv/dp/_19677_ (falling edge-triggered flip-flop clocked by clk'),52.21
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19729_ (falling edge-triggered flip-flop clocked by clk'),-47.99
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19025_ (falling edge-triggered flip-flop clocked by clk'),-47.53
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19857_ (falling edge-triggered flip-flop clocked by clk'),-48.53
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19473_ (falling edge-triggered flip-flop clocked by clk'),-48.36
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19441_ (falling edge-triggered flip-flop clocked by clk'),-47.79
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18993_ (falling edge-triggered flip-flop clocked by clk'),-48.52
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19505_ (falling edge-triggered flip-flop clocked by clk'),-47.10
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19057_ (falling edge-triggered flip-flop clocked by clk'),-48.21
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19313_ (falling edge-triggered flip-flop clocked by clk'),-47.39
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19217_ (falling edge-triggered flip-flop clocked by clk'),-48.37
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19089_ (falling edge-triggered flip-flop clocked by clk'),-48.23
+ instr[4] (input port clocked by clk), riscv/dp/_19197_ (falling edge-triggered flip-flop clocked by clk'),51.05
+ instr[4] (input port clocked by clk), riscv/dp/_18909_ (falling edge-triggered flip-flop clocked by clk'),50.64
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19633_ (falling edge-triggered flip-flop clocked by clk'),-48.10
+ instr[4] (input port clocked by clk), riscv/dp/_19421_ (falling edge-triggered flip-flop clocked by clk'),51.00
+ instr[4] (input port clocked by clk), riscv/dp/_19261_ (falling edge-triggered flip-flop clocked by clk'),51.03
+ instr[4] (input port clocked by clk), riscv/dp/_19293_ (falling edge-triggered flip-flop clocked by clk'),51.18
+ instr[4] (input port clocked by clk), riscv/dp/_18941_ (falling edge-triggered flip-flop clocked by clk'),52.44
+ instr[4] (input port clocked by clk), riscv/dp/_19549_ (falling edge-triggered flip-flop clocked by clk'),50.66
+ instr[4] (input port clocked by clk), riscv/dp/_19581_ (falling edge-triggered flip-flop clocked by clk'),51.33
+ instr[4] (input port clocked by clk), riscv/dp/_19613_ (falling edge-triggered flip-flop clocked by clk'),51.41
+ instr[4] (input port clocked by clk), riscv/dp/_18973_ (falling edge-triggered flip-flop clocked by clk'),51.54
+ instr[4] (input port clocked by clk), riscv/dp/_19357_ (falling edge-triggered flip-flop clocked by clk'),52.37
+ instr[4] (input port clocked by clk), riscv/dp/_19165_ (falling edge-triggered flip-flop clocked by clk'),50.61
+ instr[4] (input port clocked by clk), riscv/dp/_19709_ (falling edge-triggered flip-flop clocked by clk'),51.54
+ instr[4] (input port clocked by clk), riscv/dp/_19133_ (falling edge-triggered flip-flop clocked by clk'),50.84
+ instr[4] (input port clocked by clk), riscv/dp/_19614_ (falling edge-triggered flip-flop clocked by clk'),182.98
+ instr[4] (input port clocked by clk), riscv/dp/_19677_ (falling edge-triggered flip-flop clocked by clk'),52.21
+ instr[4] (input port clocked by clk), riscv/dp/_19134_ (falling edge-triggered flip-flop clocked by clk'),183.96
+ instr[4] (input port clocked by clk), riscv/dp/_19166_ (falling edge-triggered flip-flop clocked by clk'),48.18
+ instr[4] (input port clocked by clk), riscv/dp/_19262_ (falling edge-triggered flip-flop clocked by clk'),183.27
+ instr[4] (input port clocked by clk), riscv/dp/_19294_ (falling edge-triggered flip-flop clocked by clk'),48.00
+ instr[4] (input port clocked by clk), riscv/dp/_19358_ (falling edge-triggered flip-flop clocked by clk'),183.42
+ instr[4] (input port clocked by clk), riscv/dp/_19582_ (falling edge-triggered flip-flop clocked by clk'),183.51
+ instr[4] (input port clocked by clk), riscv/dp/_19550_ (falling edge-triggered flip-flop clocked by clk'),183.57
+ instr[4] (input port clocked by clk), riscv/dp/_19422_ (falling edge-triggered flip-flop clocked by clk'),48.34
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19092_ (falling edge-triggered flip-flop clocked by clk'),-45.85
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19220_ (falling edge-triggered flip-flop clocked by clk'),-45.94
+ instr[4] (input port clocked by clk), riscv/dp/_18910_ (falling edge-triggered flip-flop clocked by clk'),48.62
+ instr[4] (input port clocked by clk), riscv/dp/_19710_ (falling edge-triggered flip-flop clocked by clk'),48.48
+ instr[4] (input port clocked by clk), riscv/dp/_18974_ (falling edge-triggered flip-flop clocked by clk'),48.55
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19860_ (falling edge-triggered flip-flop clocked by clk'),-44.21
+ instr[4] (input port clocked by clk), riscv/dp/_19678_ (falling edge-triggered flip-flop clocked by clk'),49.00
+ instr[4] (input port clocked by clk), riscv/dp/_19038_ (falling edge-triggered flip-flop clocked by clk'),48.83
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19636_ (falling edge-triggered flip-flop clocked by clk'),-45.70
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19060_ (falling edge-triggered flip-flop clocked by clk'),-45.95
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18996_ (falling edge-triggered flip-flop clocked by clk'),-45.83
+ instr[4] (input port clocked by clk), riscv/dp/_18942_ (falling edge-triggered flip-flop clocked by clk'),48.68
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19028_ (falling edge-triggered flip-flop clocked by clk'),-45.68
+ instr[4] (input port clocked by clk), riscv/dp/_18927_ (falling edge-triggered flip-flop clocked by clk'),56.93
+ instr[4] (input port clocked by clk), riscv/dp/_19183_ (falling edge-triggered flip-flop clocked by clk'),57.13
+ instr[4] (input port clocked by clk), riscv/dp/_18959_ (falling edge-triggered flip-flop clocked by clk'),57.08
+ instr[4] (input port clocked by clk), riscv/dp/_19198_ (falling edge-triggered flip-flop clocked by clk'),49.10
+ instr[4] (input port clocked by clk), riscv/dp/_19870_ (falling edge-triggered flip-flop clocked by clk'),49.15
+ instr[4] (input port clocked by clk), riscv/dp/_19005_ (falling edge-triggered flip-flop clocked by clk'),54.99
+ instr[4] (input port clocked by clk), riscv/dp/_19485_ (falling edge-triggered flip-flop clocked by clk'),55.17
+ instr[4] (input port clocked by clk), riscv/dp/_19535_ (falling edge-triggered flip-flop clocked by clk'),56.72
+ instr[4] (input port clocked by clk), riscv/dp/_18895_ (falling edge-triggered flip-flop clocked by clk'),57.32
+ instr[4] (input port clocked by clk), riscv/dp/_19663_ (falling edge-triggered flip-flop clocked by clk'),57.71
+ instr[4] (input port clocked by clk), riscv/dp/_19389_ (falling edge-triggered flip-flop clocked by clk'),54.71
+ instr[4] (input port clocked by clk), riscv/dp/_19101_ (falling edge-triggered flip-flop clocked by clk'),54.79
+ instr[4] (input port clocked by clk), riscv/dp/_19247_ (falling edge-triggered flip-flop clocked by clk'),48.77
+ instr[4] (input port clocked by clk), riscv/dp/_19407_ (falling edge-triggered flip-flop clocked by clk'),48.78
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19476_ (falling edge-triggered flip-flop clocked by clk'),-45.77
+ instr[4] (input port clocked by clk), riscv/dp/_19229_ (falling edge-triggered flip-flop clocked by clk'),54.79
+ instr[4] (input port clocked by clk), riscv/dp/_19695_ (falling edge-triggered flip-flop clocked by clk'),57.39
+ instr[4] (input port clocked by clk), riscv/dp/_19517_ (falling edge-triggered flip-flop clocked by clk'),54.88
+ instr[4] (input port clocked by clk), riscv/dp/_19645_ (falling edge-triggered flip-flop clocked by clk'),54.95
+ instr[4] (input port clocked by clk), riscv/dp/_19279_ (falling edge-triggered flip-flop clocked by clk'),49.16
+ instr[4] (input port clocked by clk), riscv/dp/_19119_ (falling edge-triggered flip-flop clocked by clk'),57.10
+ instr[4] (input port clocked by clk), riscv/dp/_19151_ (falling edge-triggered flip-flop clocked by clk'),57.19
+ instr[4] (input port clocked by clk), riscv/dp/_19070_ (falling edge-triggered flip-flop clocked by clk'),49.67
+ instr[4] (input port clocked by clk), riscv/dp/_19453_ (falling edge-triggered flip-flop clocked by clk'),55.19
+ instr[4] (input port clocked by clk), riscv/dp/_19614_ (falling edge-triggered flip-flop clocked by clk'),182.98
+ instr[4] (input port clocked by clk), riscv/dp/_19006_ (falling edge-triggered flip-flop clocked by clk'),50.31
+ instr[4] (input port clocked by clk), riscv/dp/_19230_ (falling edge-triggered flip-flop clocked by clk'),50.07
+ instr[4] (input port clocked by clk), riscv/dp/_19134_ (falling edge-triggered flip-flop clocked by clk'),183.96
+ instr[4] (input port clocked by clk), riscv/dp/_19166_ (falling edge-triggered flip-flop clocked by clk'),48.18
+ instr[4] (input port clocked by clk), riscv/dp/_19646_ (falling edge-triggered flip-flop clocked by clk'),49.89
+ instr[4] (input port clocked by clk), riscv/dp/_19262_ (falling edge-triggered flip-flop clocked by clk'),183.27
+ instr[4] (input port clocked by clk), riscv/dp/_19294_ (falling edge-triggered flip-flop clocked by clk'),48.00
+ instr[4] (input port clocked by clk), riscv/dp/_19358_ (falling edge-triggered flip-flop clocked by clk'),183.42
+ instr[4] (input port clocked by clk), riscv/dp/_19582_ (falling edge-triggered flip-flop clocked by clk'),183.51
+ instr[4] (input port clocked by clk), riscv/dp/_19550_ (falling edge-triggered flip-flop clocked by clk'),183.57
+ instr[4] (input port clocked by clk), riscv/dp/_19567_ (falling edge-triggered flip-flop clocked by clk'),57.64
+ instr[4] (input port clocked by clk), riscv/dp/_19102_ (falling edge-triggered flip-flop clocked by clk'),49.75
+ instr[4] (input port clocked by clk), riscv/dp/_19422_ (falling edge-triggered flip-flop clocked by clk'),48.34
+ instr[4] (input port clocked by clk), riscv/dp/_19343_ (falling edge-triggered flip-flop clocked by clk'),58.29
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19380_ (falling edge-triggered flip-flop clocked by clk'),-45.10
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19508_ (falling edge-triggered flip-flop clocked by clk'),-45.48
+ instr[4] (input port clocked by clk), riscv/dp/_19599_ (falling edge-triggered flip-flop clocked by clk'),58.41
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19444_ (falling edge-triggered flip-flop clocked by clk'),-43.54
+ instr[4] (input port clocked by clk), riscv/dp/_18878_ (falling edge-triggered flip-flop clocked by clk'),186.24
+ instr[4] (input port clocked by clk), riscv/dp/_18910_ (falling edge-triggered flip-flop clocked by clk'),48.62
+ instr[4] (input port clocked by clk), riscv/dp/_19710_ (falling edge-triggered flip-flop clocked by clk'),48.48
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19764_ (falling edge-triggered flip-flop clocked by clk'),-43.03
+ instr[4] (input port clocked by clk), riscv/dp/_18974_ (falling edge-triggered flip-flop clocked by clk'),48.55
+ instr[4] (input port clocked by clk), riscv/dp/_19678_ (falling edge-triggered flip-flop clocked by clk'),49.00
+ instr[4] (input port clocked by clk), riscv/dp/_19038_ (falling edge-triggered flip-flop clocked by clk'),48.83
+ instr[4] (input port clocked by clk), riscv/dp/_18942_ (falling edge-triggered flip-flop clocked by clk'),48.68
+ instr[4] (input port clocked by clk), riscv/dp/_19773_ (falling edge-triggered flip-flop clocked by clk'),56.73
+ instr[4] (input port clocked by clk), riscv/dp/_18927_ (falling edge-triggered flip-flop clocked by clk'),56.93
+ instr[4] (input port clocked by clk), riscv/dp/_19183_ (falling edge-triggered flip-flop clocked by clk'),57.13
+ instr[4] (input port clocked by clk), riscv/dp/_18959_ (falling edge-triggered flip-flop clocked by clk'),57.08
+ instr[4] (input port clocked by clk), riscv/dp/_19198_ (falling edge-triggered flip-flop clocked by clk'),49.10
+ instr[4] (input port clocked by clk), riscv/dp/_19870_ (falling edge-triggered flip-flop clocked by clk'),49.15
+ instr[4] (input port clocked by clk), riscv/dp/_19005_ (falling edge-triggered flip-flop clocked by clk'),54.99
+ instr[4] (input port clocked by clk), riscv/dp/_19485_ (falling edge-triggered flip-flop clocked by clk'),55.17
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19316_ (falling edge-triggered flip-flop clocked by clk'),-44.41
+ instr[4] (input port clocked by clk), riscv/dp/_19535_ (falling edge-triggered flip-flop clocked by clk'),56.72
+ instr[4] (input port clocked by clk), riscv/dp/_18895_ (falling edge-triggered flip-flop clocked by clk'),57.32
+ instr[4] (input port clocked by clk), riscv/dp/_19741_ (falling edge-triggered flip-flop clocked by clk'),56.84
+ instr[4] (input port clocked by clk), riscv/dp/_19663_ (falling edge-triggered flip-flop clocked by clk'),57.71
+ instr[4] (input port clocked by clk), riscv/dp/_19389_ (falling edge-triggered flip-flop clocked by clk'),54.71
+ instr[4] (input port clocked by clk), riscv/dp/_19069_ (falling edge-triggered flip-flop clocked by clk'),58.34
+ instr[4] (input port clocked by clk), riscv/dp/_19101_ (falling edge-triggered flip-flop clocked by clk'),54.79
+ instr[4] (input port clocked by clk), riscv/dp/_19247_ (falling edge-triggered flip-flop clocked by clk'),48.77
+ instr[4] (input port clocked by clk), riscv/dp/_19407_ (falling edge-triggered flip-flop clocked by clk'),48.78
+ instr[4] (input port clocked by clk), riscv/dp/_19229_ (falling edge-triggered flip-flop clocked by clk'),54.79
+ instr[4] (input port clocked by clk), riscv/dp/_19695_ (falling edge-triggered flip-flop clocked by clk'),57.39
+ instr[4] (input port clocked by clk), riscv/dp/_19517_ (falling edge-triggered flip-flop clocked by clk'),54.88
+ instr[4] (input port clocked by clk), riscv/dp/_19645_ (falling edge-triggered flip-flop clocked by clk'),54.95
+ instr[4] (input port clocked by clk), riscv/dp/_19869_ (falling edge-triggered flip-flop clocked by clk'),57.34
+ instr[4] (input port clocked by clk), riscv/dp/_19279_ (falling edge-triggered flip-flop clocked by clk'),49.16
+ instr[4] (input port clocked by clk), riscv/dp/_19119_ (falling edge-triggered flip-flop clocked by clk'),57.10
+ instr[4] (input port clocked by clk), riscv/dp/_19037_ (falling edge-triggered flip-flop clocked by clk'),56.72
+ instr[4] (input port clocked by clk), riscv/dp/_19151_ (falling edge-triggered flip-flop clocked by clk'),57.19
+ instr[4] (input port clocked by clk), riscv/dp/_19070_ (falling edge-triggered flip-flop clocked by clk'),49.67
+ instr[4] (input port clocked by clk), riscv/dp/_19453_ (falling edge-triggered flip-flop clocked by clk'),55.19
+ instr[4] (input port clocked by clk), riscv/dp/_19325_ (falling edge-triggered flip-flop clocked by clk'),56.82
+ instr[4] (input port clocked by clk), riscv/dp/_19006_ (falling edge-triggered flip-flop clocked by clk'),50.31
+ instr[4] (input port clocked by clk), riscv/dp/_19230_ (falling edge-triggered flip-flop clocked by clk'),50.07
+ instr[4] (input port clocked by clk), riscv/dp/_19646_ (falling edge-triggered flip-flop clocked by clk'),49.89
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19828_ (falling edge-triggered flip-flop clocked by clk'),-43.23
+ instr[4] (input port clocked by clk), riscv/dp/_19567_ (falling edge-triggered flip-flop clocked by clk'),57.64
+ instr[4] (input port clocked by clk), riscv/dp/_19102_ (falling edge-triggered flip-flop clocked by clk'),49.75
+ instr[4] (input port clocked by clk), riscv/dp/_19343_ (falling edge-triggered flip-flop clocked by clk'),58.29
+ instr[4] (input port clocked by clk), riscv/dp/_19837_ (falling edge-triggered flip-flop clocked by clk'),58.05
+ instr[4] (input port clocked by clk), riscv/dp/_19599_ (falling edge-triggered flip-flop clocked by clk'),58.41
+ instr[4] (input port clocked by clk), riscv/dp/_18878_ (falling edge-triggered flip-flop clocked by clk'),186.24
+ instr[4] (input port clocked by clk), riscv/dp/_19375_ (falling edge-triggered flip-flop clocked by clk'),52.65
+ instr[4] (input port clocked by clk), riscv/dp/_19773_ (falling edge-triggered flip-flop clocked by clk'),56.73
+ instr[4] (input port clocked by clk), riscv/dp/_19215_ (falling edge-triggered flip-flop clocked by clk'),53.20
+ instr[4] (input port clocked by clk), riscv/dp/_19631_ (falling edge-triggered flip-flop clocked by clk'),54.31
+ instr[4] (input port clocked by clk), riscv/dp/_19087_ (falling edge-triggered flip-flop clocked by clk'),53.28
+ instr[4] (input port clocked by clk), riscv/dp/_19439_ (falling edge-triggered flip-flop clocked by clk'),52.80
+ instr[4] (input port clocked by clk), riscv/dp/_19741_ (falling edge-triggered flip-flop clocked by clk'),56.84
+ instr[4] (input port clocked by clk), riscv/dp/_19823_ (falling edge-triggered flip-flop clocked by clk'),53.67
+ instr[4] (input port clocked by clk), riscv/dp/_19069_ (falling edge-triggered flip-flop clocked by clk'),58.34
+ instr[4] (input port clocked by clk), riscv/dp/_19311_ (falling edge-triggered flip-flop clocked by clk'),53.46
+ instr[4] (input port clocked by clk), riscv/dp/_19759_ (falling edge-triggered flip-flop clocked by clk'),53.84
+ instr[4] (input port clocked by clk), riscv/dp/_19471_ (falling edge-triggered flip-flop clocked by clk'),53.17
+ instr[4] (input port clocked by clk), riscv/dp/_19869_ (falling edge-triggered flip-flop clocked by clk'),57.34
+ instr[4] (input port clocked by clk), riscv/dp/_19037_ (falling edge-triggered flip-flop clocked by clk'),56.72
+ instr[4] (input port clocked by clk), riscv/dp/_19855_ (falling edge-triggered flip-flop clocked by clk'),54.11
+ instr[4] (input port clocked by clk), riscv/dp/_19503_ (falling edge-triggered flip-flop clocked by clk'),53.51
+ instr[4] (input port clocked by clk), riscv/dp/_19325_ (falling edge-triggered flip-flop clocked by clk'),56.82
+ instr[4] (input port clocked by clk), riscv/dp/_19727_ (falling edge-triggered flip-flop clocked by clk'),53.75
+ instr[4] (input port clocked by clk), riscv/dp/_19774_ (falling edge-triggered flip-flop clocked by clk'),56.50
+ instr[4] (input port clocked by clk), riscv/dp/_19055_ (falling edge-triggered flip-flop clocked by clk'),55.20
+ instr[4] (input port clocked by clk), riscv/dp/_18991_ (falling edge-triggered flip-flop clocked by clk'),51.74
+ instr[4] (input port clocked by clk), riscv/dp/_19838_ (falling edge-triggered flip-flop clocked by clk'),56.45
+ instr[4] (input port clocked by clk), riscv/dp/_19326_ (falling edge-triggered flip-flop clocked by clk'),52.61
+ instr[4] (input port clocked by clk), riscv/dp/_19023_ (falling edge-triggered flip-flop clocked by clk'),54.60
+ instr[4] (input port clocked by clk), riscv/dp/_19837_ (falling edge-triggered flip-flop clocked by clk'),58.05
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18877_ (falling edge-triggered flip-flop clocked by clk'),-38.40
+ instr[4] (input port clocked by clk), riscv/dp/_19742_ (falling edge-triggered flip-flop clocked by clk'),56.90
+ instr[4] (input port clocked by clk), riscv/dp/_18863_ (falling edge-triggered flip-flop clocked by clk'),54.18
+ instr[4] (input port clocked by clk), riscv/dp/_19375_ (falling edge-triggered flip-flop clocked by clk'),52.65
+ instr[4] (input port clocked by clk), riscv/dp/_19215_ (falling edge-triggered flip-flop clocked by clk'),53.20
+ instr[4] (input port clocked by clk), riscv/dp/_19631_ (falling edge-triggered flip-flop clocked by clk'),54.31
+ instr[4] (input port clocked by clk), riscv/dp/_19087_ (falling edge-triggered flip-flop clocked by clk'),53.28
+ instr[4] (input port clocked by clk), riscv/dp/_19439_ (falling edge-triggered flip-flop clocked by clk'),52.80
+ instr[4] (input port clocked by clk), riscv/dp/_19390_ (falling edge-triggered flip-flop clocked by clk'),53.23
+ instr[4] (input port clocked by clk), riscv/dp/_19823_ (falling edge-triggered flip-flop clocked by clk'),53.67
+ instr[4] (input port clocked by clk), riscv/dp/_19518_ (falling edge-triggered flip-flop clocked by clk'),53.85
+ instr[4] (input port clocked by clk), riscv/dp/_19311_ (falling edge-triggered flip-flop clocked by clk'),53.46
+ instr[4] (input port clocked by clk), riscv/dp/_19759_ (falling edge-triggered flip-flop clocked by clk'),53.84
+ instr[4] (input port clocked by clk), riscv/dp/_19471_ (falling edge-triggered flip-flop clocked by clk'),53.17
+ instr[4] (input port clocked by clk), riscv/dp/_19855_ (falling edge-triggered flip-flop clocked by clk'),54.11
+ instr[4] (input port clocked by clk), riscv/dp/_19503_ (falling edge-triggered flip-flop clocked by clk'),53.51
+ instr[4] (input port clocked by clk), riscv/dp/_19727_ (falling edge-triggered flip-flop clocked by clk'),53.75
+ instr[4] (input port clocked by clk), riscv/dp/_19486_ (falling edge-triggered flip-flop clocked by clk'),54.19
+ instr[4] (input port clocked by clk), riscv/dp/_19454_ (falling edge-triggered flip-flop clocked by clk'),54.01
+ instr[4] (input port clocked by clk), riscv/dp/_19774_ (falling edge-triggered flip-flop clocked by clk'),56.50
+ instr[4] (input port clocked by clk), riscv/dp/_19055_ (falling edge-triggered flip-flop clocked by clk'),55.20
+ instr[4] (input port clocked by clk), riscv/dp/_18991_ (falling edge-triggered flip-flop clocked by clk'),51.74
+ instr[4] (input port clocked by clk), riscv/dp/_19838_ (falling edge-triggered flip-flop clocked by clk'),56.45
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19732_ (falling edge-triggered flip-flop clocked by clk'),-40.64
+ instr[4] (input port clocked by clk), riscv/dp/_19326_ (falling edge-triggered flip-flop clocked by clk'),52.61
+ instr[4] (input port clocked by clk), riscv/dp/_19023_ (falling edge-triggered flip-flop clocked by clk'),54.60
+ instr[4] (input port clocked by clk), riscv/dp/_19742_ (falling edge-triggered flip-flop clocked by clk'),56.90
+ instr[4] (input port clocked by clk), riscv/dp/_18863_ (falling edge-triggered flip-flop clocked by clk'),54.18
+ instr[4] (input port clocked by clk), riscv/dp/_19390_ (falling edge-triggered flip-flop clocked by clk'),53.23
+ instr[4] (input port clocked by clk), riscv/dp/_19518_ (falling edge-triggered flip-flop clocked by clk'),53.85
+ instr[4] (input port clocked by clk), riscv/dp/_19486_ (falling edge-triggered flip-flop clocked by clk'),54.19
+ instr[4] (input port clocked by clk), riscv/dp/_19454_ (falling edge-triggered flip-flop clocked by clk'),54.01
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19197_ (falling edge-triggered flip-flop clocked by clk'),-33.76
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18909_ (falling edge-triggered flip-flop clocked by clk'),-34.16
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19421_ (falling edge-triggered flip-flop clocked by clk'),-33.81
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19261_ (falling edge-triggered flip-flop clocked by clk'),-33.77
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19293_ (falling edge-triggered flip-flop clocked by clk'),-33.62
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18941_ (falling edge-triggered flip-flop clocked by clk'),-32.36
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19549_ (falling edge-triggered flip-flop clocked by clk'),-34.15
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19581_ (falling edge-triggered flip-flop clocked by clk'),-33.47
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19613_ (falling edge-triggered flip-flop clocked by clk'),-33.40
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18973_ (falling edge-triggered flip-flop clocked by clk'),-33.26
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19357_ (falling edge-triggered flip-flop clocked by clk'),-32.43
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19165_ (falling edge-triggered flip-flop clocked by clk'),-34.19
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19709_ (falling edge-triggered flip-flop clocked by clk'),-33.26
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19133_ (falling edge-triggered flip-flop clocked by clk'),-33.96
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19677_ (falling edge-triggered flip-flop clocked by clk'),-32.60
+ instr[4] (input port clocked by clk), riscv/dp/_19580_ (falling edge-triggered flip-flop clocked by clk'),61.19
+ instr[4] (input port clocked by clk), riscv/dp/_19612_ (falling edge-triggered flip-flop clocked by clk'),61.25
+ instr[4] (input port clocked by clk), riscv/dp/_19365_ (falling edge-triggered flip-flop clocked by clk'),147.30
+ instr[4] (input port clocked by clk), riscv/dp/_19132_ (falling edge-triggered flip-flop clocked by clk'),62.04
+ instr[4] (input port clocked by clk), riscv/dp/_19548_ (falling edge-triggered flip-flop clocked by clk'),60.87
+ instr[4] (input port clocked by clk), riscv/dp/_19260_ (falling edge-triggered flip-flop clocked by clk'),62.20
+ instr[4] (input port clocked by clk), riscv/dp/_19164_ (falling edge-triggered flip-flop clocked by clk'),61.90
+ instr[4] (input port clocked by clk), riscv/dp/_19708_ (falling edge-triggered flip-flop clocked by clk'),61.66
+ instr[4] (input port clocked by clk), riscv/dp/_19420_ (falling edge-triggered flip-flop clocked by clk'),61.96
+ instr[4] (input port clocked by clk), riscv/dp/_19676_ (falling edge-triggered flip-flop clocked by clk'),61.71
+ instr[4] (input port clocked by clk), riscv/dp/_19292_ (falling edge-triggered flip-flop clocked by clk'),61.70
+ instr[4] (input port clocked by clk), riscv/dp/_18972_ (falling edge-triggered flip-flop clocked by clk'),62.23
+ instr[4] (input port clocked by clk), riscv/dp/_19004_ (falling edge-triggered flip-flop clocked by clk'),61.68
+ instr[4] (input port clocked by clk), riscv/dp/_19868_ (falling edge-triggered flip-flop clocked by clk'),62.14
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19614_ (falling edge-triggered flip-flop clocked by clk'),98.18
+ instr[4] (input port clocked by clk), riscv/dp/_19868_ (falling edge-triggered flip-flop clocked by clk'),62.14
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19134_ (falling edge-triggered flip-flop clocked by clk'),99.16
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19166_ (falling edge-triggered flip-flop clocked by clk'),-36.63
+ instr[4] (input port clocked by clk), riscv/dp/_18940_ (falling edge-triggered flip-flop clocked by clk'),62.24
+ instr[4] (input port clocked by clk), riscv/dp/_18908_ (falling edge-triggered flip-flop clocked by clk'),61.85
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19262_ (falling edge-triggered flip-flop clocked by clk'),98.47
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19294_ (falling edge-triggered flip-flop clocked by clk'),-36.80
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19358_ (falling edge-triggered flip-flop clocked by clk'),98.61
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19582_ (falling edge-triggered flip-flop clocked by clk'),98.70
+ instr[4] (input port clocked by clk), riscv/dp/_19196_ (falling edge-triggered flip-flop clocked by clk'),62.20
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19550_ (falling edge-triggered flip-flop clocked by clk'),98.76
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19422_ (falling edge-triggered flip-flop clocked by clk'),-36.47
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18910_ (falling edge-triggered flip-flop clocked by clk'),-36.18
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19710_ (falling edge-triggered flip-flop clocked by clk'),-36.32
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18974_ (falling edge-triggered flip-flop clocked by clk'),-36.25
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19678_ (falling edge-triggered flip-flop clocked by clk'),-35.81
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19038_ (falling edge-triggered flip-flop clocked by clk'),-35.97
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18942_ (falling edge-triggered flip-flop clocked by clk'),-36.13
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18927_ (falling edge-triggered flip-flop clocked by clk'),-27.87
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19183_ (falling edge-triggered flip-flop clocked by clk'),-27.68
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18959_ (falling edge-triggered flip-flop clocked by clk'),-27.72
+ instr[4] (input port clocked by clk), riscv/dp/_19036_ (falling edge-triggered flip-flop clocked by clk'),63.13
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19198_ (falling edge-triggered flip-flop clocked by clk'),-35.71
+ instr[4] (input port clocked by clk), riscv/dp/_19580_ (falling edge-triggered flip-flop clocked by clk'),61.19
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19870_ (falling edge-triggered flip-flop clocked by clk'),-35.65
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19005_ (falling edge-triggered flip-flop clocked by clk'),-29.81
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19485_ (falling edge-triggered flip-flop clocked by clk'),-29.63
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19535_ (falling edge-triggered flip-flop clocked by clk'),-28.08
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18895_ (falling edge-triggered flip-flop clocked by clk'),-27.49
+ instr[4] (input port clocked by clk), riscv/dp/_19612_ (falling edge-triggered flip-flop clocked by clk'),61.25
+ instr[4] (input port clocked by clk), riscv/dp/_19356_ (falling edge-triggered flip-flop clocked by clk'),61.03
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19663_ (falling edge-triggered flip-flop clocked by clk'),-27.10
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19389_ (falling edge-triggered flip-flop clocked by clk'),-30.09
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19101_ (falling edge-triggered flip-flop clocked by clk'),-30.01
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19247_ (falling edge-triggered flip-flop clocked by clk'),-36.03
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19407_ (falling edge-triggered flip-flop clocked by clk'),-36.03
+ instr[4] (input port clocked by clk), riscv/dp/_19132_ (falling edge-triggered flip-flop clocked by clk'),62.04
+ instr[4] (input port clocked by clk), riscv/dp/_19548_ (falling edge-triggered flip-flop clocked by clk'),60.87
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19229_ (falling edge-triggered flip-flop clocked by clk'),-30.01
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19695_ (falling edge-triggered flip-flop clocked by clk'),-27.42
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19517_ (falling edge-triggered flip-flop clocked by clk'),-29.92
+ instr[4] (input port clocked by clk), riscv/dp/_19260_ (falling edge-triggered flip-flop clocked by clk'),62.20
+ instr[4] (input port clocked by clk), riscv/dp/_19164_ (falling edge-triggered flip-flop clocked by clk'),61.90
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19645_ (falling edge-triggered flip-flop clocked by clk'),-29.85
+ instr[4] (input port clocked by clk), riscv/dp/_19708_ (falling edge-triggered flip-flop clocked by clk'),61.66
+ instr[4] (input port clocked by clk), riscv/dp/_19420_ (falling edge-triggered flip-flop clocked by clk'),61.96
+ instr[4] (input port clocked by clk), riscv/dp/_19100_ (falling edge-triggered flip-flop clocked by clk'),62.59
+ instr[4] (input port clocked by clk), riscv/dp/_19676_ (falling edge-triggered flip-flop clocked by clk'),61.71
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19279_ (falling edge-triggered flip-flop clocked by clk'),-35.65
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19119_ (falling edge-triggered flip-flop clocked by clk'),-27.71
+ instr[4] (input port clocked by clk), riscv/dp/_19292_ (falling edge-triggered flip-flop clocked by clk'),61.70
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19151_ (falling edge-triggered flip-flop clocked by clk'),-27.62
+ instr[4] (input port clocked by clk), riscv/dp/_18972_ (falling edge-triggered flip-flop clocked by clk'),62.23
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19070_ (falling edge-triggered flip-flop clocked by clk'),-35.13
+ instr[4] (input port clocked by clk), riscv/dp/_19004_ (falling edge-triggered flip-flop clocked by clk'),61.68
+ instr[4] (input port clocked by clk), riscv/dp/_19228_ (falling edge-triggered flip-flop clocked by clk'),62.84
+ instr[4] (input port clocked by clk), riscv/dp/_19868_ (falling edge-triggered flip-flop clocked by clk'),62.14
+ instr[4] (input port clocked by clk), riscv/dp/_19644_ (falling edge-triggered flip-flop clocked by clk'),62.69
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19453_ (falling edge-triggered flip-flop clocked by clk'),-29.62
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19006_ (falling edge-triggered flip-flop clocked by clk'),-34.50
+ instr[4] (input port clocked by clk), riscv/dp/_19068_ (falling edge-triggered flip-flop clocked by clk'),62.55
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19230_ (falling edge-triggered flip-flop clocked by clk'),-34.74
+ instr[4] (input port clocked by clk), riscv/dp/_18908_ (falling edge-triggered flip-flop clocked by clk'),61.85
+ instr[4] (input port clocked by clk), riscv/dp/_18940_ (falling edge-triggered flip-flop clocked by clk'),62.24
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19646_ (falling edge-triggered flip-flop clocked by clk'),-34.92
+ instr[4] (input port clocked by clk), riscv/dp/_19484_ (falling edge-triggered flip-flop clocked by clk'),64.35
+ instr[4] (input port clocked by clk), riscv/dp/_19196_ (falling edge-triggered flip-flop clocked by clk'),62.20
+ instr[4] (input port clocked by clk), riscv/dp/_18876_ (falling edge-triggered flip-flop clocked by clk'),65.10
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19567_ (falling edge-triggered flip-flop clocked by clk'),-27.17
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19102_ (falling edge-triggered flip-flop clocked by clk'),-35.06
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19343_ (falling edge-triggered flip-flop clocked by clk'),-26.51
+ instr[4] (input port clocked by clk), riscv/dp/_18859_ (falling edge-triggered flip-flop clocked by clk'),70.91
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19599_ (falling edge-triggered flip-flop clocked by clk'),-26.40
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18878_ (falling edge-triggered flip-flop clocked by clk'),101.43
+ instr[4] (input port clocked by clk), riscv/dp/_19254_ (falling edge-triggered flip-flop clocked by clk'),65.48
+ instr[4] (input port clocked by clk), riscv/dp/_19414_ (falling edge-triggered flip-flop clocked by clk'),65.64
+ instr[4] (input port clocked by clk), riscv/dp/_19702_ (falling edge-triggered flip-flop clocked by clk'),65.26
+ instr[4] (input port clocked by clk), riscv/dp/_19670_ (falling edge-triggered flip-flop clocked by clk'),65.07
+ instr[4] (input port clocked by clk), riscv/dp/_18902_ (falling edge-triggered flip-flop clocked by clk'),65.05
+ instr[4] (input port clocked by clk), riscv/dp/_19158_ (falling edge-triggered flip-flop clocked by clk'),65.61
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19773_ (falling edge-triggered flip-flop clocked by clk'),-28.07
+ instr[4] (input port clocked by clk), riscv/dp/_19286_ (falling edge-triggered flip-flop clocked by clk'),65.50
+ instr[4] (input port clocked by clk), riscv/dp/_19126_ (falling edge-triggered flip-flop clocked by clk'),65.55
+ instr[4] (input port clocked by clk), riscv/dp/_19574_ (falling edge-triggered flip-flop clocked by clk'),65.06
+ instr[4] (input port clocked by clk), riscv/dp/_19036_ (falling edge-triggered flip-flop clocked by clk'),63.13
+ instr[4] (input port clocked by clk), riscv/dp/_19190_ (falling edge-triggered flip-flop clocked by clk'),65.09
+ instr[4] (input port clocked by clk), riscv/dp/_18966_ (falling edge-triggered flip-flop clocked by clk'),66.45
+ instr[4] (input port clocked by clk), riscv/dp/_18934_ (falling edge-triggered flip-flop clocked by clk'),65.79
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19741_ (falling edge-triggered flip-flop clocked by clk'),-27.96
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19069_ (falling edge-triggered flip-flop clocked by clk'),-26.47
+ instr[4] (input port clocked by clk), riscv/dp/_18998_ (falling edge-triggered flip-flop clocked by clk'),65.61
+ instr[4] (input port clocked by clk), riscv/dp/_19542_ (falling edge-triggered flip-flop clocked by clk'),65.72
+ instr[4] (input port clocked by clk), riscv/dp/_19100_ (falling edge-triggered flip-flop clocked by clk'),62.59
+ instr[4] (input port clocked by clk), riscv/dp/_19606_ (falling edge-triggered flip-flop clocked by clk'),66.10
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19869_ (falling edge-triggered flip-flop clocked by clk'),-27.47
+ instr[4] (input port clocked by clk), riscv/dp/_19350_ (falling edge-triggered flip-flop clocked by clk'),66.37
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19037_ (falling edge-triggered flip-flop clocked by clk'),-28.09
+ instr[4] (input port clocked by clk), riscv/dp/_19228_ (falling edge-triggered flip-flop clocked by clk'),62.84
+ instr[4] (input port clocked by clk), riscv/dp/_19644_ (falling edge-triggered flip-flop clocked by clk'),62.69
+ instr[4] (input port clocked by clk), riscv/dp/_19862_ (falling edge-triggered flip-flop clocked by clk'),66.28
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19325_ (falling edge-triggered flip-flop clocked by clk'),-27.99
+ instr[4] (input port clocked by clk), riscv/dp/_19030_ (falling edge-triggered flip-flop clocked by clk'),66.35
+ instr[4] (input port clocked by clk), riscv/dp/_19516_ (falling edge-triggered flip-flop clocked by clk'),65.86
+ instr[4] (input port clocked by clk), riscv/dp/_19388_ (falling edge-triggered flip-flop clocked by clk'),65.37
+ instr[4] (input port clocked by clk), riscv/dp/_19452_ (falling edge-triggered flip-flop clocked by clk'),65.76
+ instr[4] (input port clocked by clk), riscv/dp/_19484_ (falling edge-triggered flip-flop clocked by clk'),64.35
+ instr[4] (input port clocked by clk), riscv/dp/_19772_ (falling edge-triggered flip-flop clocked by clk'),65.42
+ instr[4] (input port clocked by clk), riscv/dp/_19740_ (falling edge-triggered flip-flop clocked by clk'),65.23
+ instr[4] (input port clocked by clk), riscv/dp/_18876_ (falling edge-triggered flip-flop clocked by clk'),65.10
+ instr[4] (input port clocked by clk), riscv/dp/_19062_ (falling edge-triggered flip-flop clocked by clk'),67.53
+ instr[4] (input port clocked by clk), riscv/dp/_18860_ (falling edge-triggered flip-flop clocked by clk'),64.26
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19837_ (falling edge-triggered flip-flop clocked by clk'),-26.75
+ instr[4] (input port clocked by clk), riscv/dp/_19642_ (falling edge-triggered flip-flop clocked by clk'),65.24
+ instr[4] (input port clocked by clk), riscv/dp/_18859_ (falling edge-triggered flip-flop clocked by clk'),70.91
+ instr[4] (input port clocked by clk), riscv/dp/_19382_ (falling edge-triggered flip-flop clocked by clk'),67.47
+ instr[4] (input port clocked by clk), riscv/dp/_19254_ (falling edge-triggered flip-flop clocked by clk'),65.48
+ instr[4] (input port clocked by clk), riscv/dp/_19414_ (falling edge-triggered flip-flop clocked by clk'),65.64
+ instr[4] (input port clocked by clk), riscv/dp/_19002_ (falling edge-triggered flip-flop clocked by clk'),65.64
+ instr[4] (input port clocked by clk), riscv/dp/_19702_ (falling edge-triggered flip-flop clocked by clk'),65.26
+ instr[4] (input port clocked by clk), riscv/dp/_19670_ (falling edge-triggered flip-flop clocked by clk'),65.07
+ instr[4] (input port clocked by clk), riscv/dp/_19098_ (falling edge-triggered flip-flop clocked by clk'),64.43
+ instr[4] (input port clocked by clk), riscv/dp/_18894_ (falling edge-triggered flip-flop clocked by clk'),66.90
+ instr[4] (input port clocked by clk), riscv/dp/_18902_ (falling edge-triggered flip-flop clocked by clk'),65.05
+ instr[4] (input port clocked by clk), riscv/dp/_19158_ (falling edge-triggered flip-flop clocked by clk'),65.61
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19375_ (falling edge-triggered flip-flop clocked by clk'),-32.16
+ instr[4] (input port clocked by clk), riscv/dp/_19834_ (falling edge-triggered flip-flop clocked by clk'),65.83
+ instr[4] (input port clocked by clk), riscv/dp/_19286_ (falling edge-triggered flip-flop clocked by clk'),65.50
+ instr[4] (input port clocked by clk), riscv/dp/_19126_ (falling edge-triggered flip-flop clocked by clk'),65.55
+ instr[4] (input port clocked by clk), riscv/dp/_19574_ (falling edge-triggered flip-flop clocked by clk'),65.06
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19215_ (falling edge-triggered flip-flop clocked by clk'),-31.61
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19631_ (falling edge-triggered flip-flop clocked by clk'),-30.49
+ instr[4] (input port clocked by clk), riscv/dp/_19226_ (falling edge-triggered flip-flop clocked by clk'),64.73
+ instr[4] (input port clocked by clk), riscv/dp/_19190_ (falling edge-triggered flip-flop clocked by clk'),65.09
+ instr[4] (input port clocked by clk), riscv/dp/_18966_ (falling edge-triggered flip-flop clocked by clk'),66.45
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19087_ (falling edge-triggered flip-flop clocked by clk'),-31.53
+ instr[4] (input port clocked by clk), riscv/dp/_19478_ (falling edge-triggered flip-flop clocked by clk'),67.93
+ instr[4] (input port clocked by clk), riscv/dp/_18934_ (falling edge-triggered flip-flop clocked by clk'),65.79
+ instr[4] (input port clocked by clk), riscv/dp/_19770_ (falling edge-triggered flip-flop clocked by clk'),64.90
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19439_ (falling edge-triggered flip-flop clocked by clk'),-32.00
+ instr[4] (input port clocked by clk), riscv/dp/_19836_ (falling edge-triggered flip-flop clocked by clk'),66.34
+ instr[4] (input port clocked by clk), riscv/dp/_19322_ (falling edge-triggered flip-flop clocked by clk'),64.96
+ instr[4] (input port clocked by clk), riscv/dp/_19738_ (falling edge-triggered flip-flop clocked by clk'),64.76
+ instr[4] (input port clocked by clk), riscv/dp/_19406_ (falling edge-triggered flip-flop clocked by clk'),66.55
+ instr[4] (input port clocked by clk), riscv/dp/_19450_ (falling edge-triggered flip-flop clocked by clk'),65.96
+ instr[4] (input port clocked by clk), riscv/dp/_19386_ (falling edge-triggered flip-flop clocked by clk'),65.94
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19823_ (falling edge-triggered flip-flop clocked by clk'),-31.13
+ instr[4] (input port clocked by clk), riscv/dp/_19662_ (falling edge-triggered flip-flop clocked by clk'),67.18
+ instr[4] (input port clocked by clk), riscv/dp/_18923_ (falling edge-triggered flip-flop clocked by clk'),59.72
+ instr[4] (input port clocked by clk), riscv/dp/_18955_ (falling edge-triggered flip-flop clocked by clk'),73.74
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19311_ (falling edge-triggered flip-flop clocked by clk'),-31.34
+ instr[4] (input port clocked by clk), riscv/dp/_19510_ (falling edge-triggered flip-flop clocked by clk'),66.84
+ instr[4] (input port clocked by clk), riscv/dp/_18998_ (falling edge-triggered flip-flop clocked by clk'),65.61
+ instr[4] (input port clocked by clk), riscv/dp/_19514_ (falling edge-triggered flip-flop clocked by clk'),67.06
+ instr[4] (input port clocked by clk), riscv/dp/_19542_ (falling edge-triggered flip-flop clocked by clk'),65.72
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19759_ (falling edge-triggered flip-flop clocked by clk'),-30.96
+ instr[4] (input port clocked by clk), riscv/dp/_18958_ (falling edge-triggered flip-flop clocked by clk'),67.06
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19471_ (falling edge-triggered flip-flop clocked by clk'),-31.64
+ instr[4] (input port clocked by clk), riscv/dp/_19606_ (falling edge-triggered flip-flop clocked by clk'),66.10
+ instr[4] (input port clocked by clk), riscv/dp/_19350_ (falling edge-triggered flip-flop clocked by clk'),66.37
+ instr[4] (input port clocked by clk), riscv/dp/_19694_ (falling edge-triggered flip-flop clocked by clk'),67.26
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19855_ (falling edge-triggered flip-flop clocked by clk'),-30.69
+ instr[4] (input port clocked by clk), riscv/dp/_19066_ (falling edge-triggered flip-flop clocked by clk'),66.29
+ instr[4] (input port clocked by clk), riscv/dp/_19482_ (falling edge-triggered flip-flop clocked by clk'),66.26
+ instr[4] (input port clocked by clk), riscv/dp/_19446_ (falling edge-triggered flip-flop clocked by clk'),67.20
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19503_ (falling edge-triggered flip-flop clocked by clk'),-31.29
+ instr[4] (input port clocked by clk), riscv/dp/_19862_ (falling edge-triggered flip-flop clocked by clk'),66.28
+ instr[4] (input port clocked by clk), riscv/dp/_19182_ (falling edge-triggered flip-flop clocked by clk'),67.78
+ instr[4] (input port clocked by clk), riscv/dp/_19034_ (falling edge-triggered flip-flop clocked by clk'),65.56
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19272_ (falling edge-triggered flip-flop clocked by clk'),28.57
+ instr[4] (input port clocked by clk), riscv/dp/_19278_ (falling edge-triggered flip-flop clocked by clk'),66.92
+ instr[4] (input port clocked by clk), riscv/dp/_19866_ (falling edge-triggered flip-flop clocked by clk'),65.55
+ instr[4] (input port clocked by clk), riscv/dp/_19403_ (falling edge-triggered flip-flop clocked by clk'),74.14
+ instr[4] (input port clocked by clk), riscv/dp/_18891_ (falling edge-triggered flip-flop clocked by clk'),74.33
+ instr[4] (input port clocked by clk), riscv/dp/_19324_ (falling edge-triggered flip-flop clocked by clk'),67.12
+ instr[4] (input port clocked by clk), riscv/dp/_19691_ (falling edge-triggered flip-flop clocked by clk'),74.49
+ instr[4] (input port clocked by clk), riscv/dp/_19030_ (falling edge-triggered flip-flop clocked by clk'),66.35
+ instr[4] (input port clocked by clk), riscv/dp/_19243_ (falling edge-triggered flip-flop clocked by clk'),74.28
+ instr[4] (input port clocked by clk), riscv/dp/_19659_ (falling edge-triggered flip-flop clocked by clk'),74.28
+ instr[4] (input port clocked by clk), riscv/dp/_19516_ (falling edge-triggered flip-flop clocked by clk'),65.86
+ instr[4] (input port clocked by clk), riscv/dp/_19388_ (falling edge-triggered flip-flop clocked by clk'),65.37
+ instr[4] (input port clocked by clk), riscv/dp/_18870_ (falling edge-triggered flip-flop clocked by clk'),68.93
+ instr[4] (input port clocked by clk), riscv/dp/_19452_ (falling edge-triggered flip-flop clocked by clk'),65.76
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19774_ (falling edge-triggered flip-flop clocked by clk'),-28.31
+ instr[4] (input port clocked by clk), riscv/dp/_19147_ (falling edge-triggered flip-flop clocked by clk'),75.15
+ instr[4] (input port clocked by clk), riscv/dp/_19772_ (falling edge-triggered flip-flop clocked by clk'),65.42
+ instr[4] (input port clocked by clk), riscv/dp/_19740_ (falling edge-triggered flip-flop clocked by clk'),65.23
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19055_ (falling edge-triggered flip-flop clocked by clk'),-29.60
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18991_ (falling edge-triggered flip-flop clocked by clk'),-33.06
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19838_ (falling edge-triggered flip-flop clocked by clk'),-28.36
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19326_ (falling edge-triggered flip-flop clocked by clk'),-32.19
+ instr[4] (input port clocked by clk), riscv/dp/_19275_ (falling edge-triggered flip-flop clocked by clk'),74.94
+ instr[4] (input port clocked by clk), riscv/dp/_19179_ (falling edge-triggered flip-flop clocked by clk'),74.64
+ instr[4] (input port clocked by clk), riscv/dp/_19062_ (falling edge-triggered flip-flop clocked by clk'),67.53
+ instr[4] (input port clocked by clk), riscv/dp/_19566_ (falling edge-triggered flip-flop clocked by clk'),69.38
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19023_ (falling edge-triggered flip-flop clocked by clk'),-30.20
+ instr[4] (input port clocked by clk), riscv/dp/_18860_ (falling edge-triggered flip-flop clocked by clk'),64.26
+ instr[4] (input port clocked by clk), riscv/dp/_19642_ (falling edge-triggered flip-flop clocked by clk'),65.24
+ instr[4] (input port clocked by clk), riscv/dp/_19382_ (falling edge-triggered flip-flop clocked by clk'),67.47
+ instr[4] (input port clocked by clk), riscv/dp/_19002_ (falling edge-triggered flip-flop clocked by clk'),65.64
+ instr[4] (input port clocked by clk), riscv/dp/_18867_ (falling edge-triggered flip-flop clocked by clk'),74.39
+ instr[4] (input port clocked by clk), riscv/dp/_18926_ (falling edge-triggered flip-flop clocked by clk'),69.10
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19742_ (falling edge-triggered flip-flop clocked by clk'),-27.90
+ instr[4] (input port clocked by clk), riscv/dp/_19150_ (falling edge-triggered flip-flop clocked by clk'),68.34
+ instr[4] (input port clocked by clk), riscv/dp/_19098_ (falling edge-triggered flip-flop clocked by clk'),64.43
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18863_ (falling edge-triggered flip-flop clocked by clk'),-30.62
+ instr[4] (input port clocked by clk), riscv/dp/_19534_ (falling edge-triggered flip-flop clocked by clk'),67.75
+ instr[4] (input port clocked by clk), riscv/dp/_18894_ (falling edge-triggered flip-flop clocked by clk'),66.90
+ instr[4] (input port clocked by clk), riscv/dp/_19531_ (falling edge-triggered flip-flop clocked by clk'),75.40
+ instr[4] (input port clocked by clk), riscv/dp/_19118_ (falling edge-triggered flip-flop clocked by clk'),68.68
+ instr[4] (input port clocked by clk), riscv/dp/_19246_ (falling edge-triggered flip-flop clocked by clk'),68.30
+ instr[4] (input port clocked by clk), riscv/dp/_19834_ (falling edge-triggered flip-flop clocked by clk'),65.83
+ instr[4] (input port clocked by clk), riscv/dp/_19598_ (falling edge-triggered flip-flop clocked by clk'),69.01
+ instr[4] (input port clocked by clk), riscv/dp/_19115_ (falling edge-triggered flip-flop clocked by clk'),75.76
+ instr[4] (input port clocked by clk), riscv/dp/_19339_ (falling edge-triggered flip-flop clocked by clk'),76.70
+ instr[4] (input port clocked by clk), riscv/dp/_19595_ (falling edge-triggered flip-flop clocked by clk'),76.07
+ instr[4] (input port clocked by clk), riscv/dp/_19226_ (falling edge-triggered flip-flop clocked by clk'),64.73
+ instr[4] (input port clocked by clk), riscv/dp/_19478_ (falling edge-triggered flip-flop clocked by clk'),67.93
+ instr[4] (input port clocked by clk), riscv/dp/_19342_ (falling edge-triggered flip-flop clocked by clk'),67.27
+ instr[4] (input port clocked by clk), riscv/dp/_19563_ (falling edge-triggered flip-flop clocked by clk'),77.44
+ instr[4] (input port clocked by clk), riscv/dp/_19770_ (falling edge-triggered flip-flop clocked by clk'),64.90
+ instr[4] (input port clocked by clk), riscv/dp/_19836_ (falling edge-triggered flip-flop clocked by clk'),66.34
+ instr[4] (input port clocked by clk), riscv/dp/_19322_ (falling edge-triggered flip-flop clocked by clk'),64.96
+ instr[4] (input port clocked by clk), riscv/dp/_19738_ (falling edge-triggered flip-flop clocked by clk'),64.76
+ instr[4] (input port clocked by clk), riscv/dp/_19406_ (falling edge-triggered flip-flop clocked by clk'),66.55
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19390_ (falling edge-triggered flip-flop clocked by clk'),-31.58
+ instr[4] (input port clocked by clk), riscv/dp/_19450_ (falling edge-triggered flip-flop clocked by clk'),65.96
+ instr[4] (input port clocked by clk), riscv/dp/_19386_ (falling edge-triggered flip-flop clocked by clk'),65.94
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19518_ (falling edge-triggered flip-flop clocked by clk'),-30.95
+ instr[4] (input port clocked by clk), riscv/dp/_19662_ (falling edge-triggered flip-flop clocked by clk'),67.18
+ instr[4] (input port clocked by clk), riscv/dp/_18923_ (falling edge-triggered flip-flop clocked by clk'),59.72
+ instr[4] (input port clocked by clk), riscv/dp/_18955_ (falling edge-triggered flip-flop clocked by clk'),73.74
+ instr[4] (input port clocked by clk), riscv/dp/_19510_ (falling edge-triggered flip-flop clocked by clk'),66.84
+ instr[4] (input port clocked by clk), riscv/dp/_19514_ (falling edge-triggered flip-flop clocked by clk'),67.06
+ instr[4] (input port clocked by clk), riscv/dp/_18958_ (falling edge-triggered flip-flop clocked by clk'),67.06
+ instr[4] (input port clocked by clk), riscv/dp/_19694_ (falling edge-triggered flip-flop clocked by clk'),67.26
+ instr[4] (input port clocked by clk), riscv/dp/_19066_ (falling edge-triggered flip-flop clocked by clk'),66.29
+ instr[4] (input port clocked by clk), riscv/dp/_19482_ (falling edge-triggered flip-flop clocked by clk'),66.26
+ instr[4] (input port clocked by clk), riscv/dp/_19446_ (falling edge-triggered flip-flop clocked by clk'),67.20
+ instr[4] (input port clocked by clk), riscv/dp/_19116_ (falling edge-triggered flip-flop clocked by clk'),68.45
+ instr[4] (input port clocked by clk), riscv/dp/_18924_ (falling edge-triggered flip-flop clocked by clk'),68.48
+ instr[4] (input port clocked by clk), riscv/dp/_19660_ (falling edge-triggered flip-flop clocked by clk'),75.69
+ instr[4] (input port clocked by clk), riscv/dp/_19148_ (falling edge-triggered flip-flop clocked by clk'),69.16
+ instr[4] (input port clocked by clk), riscv/dp/_19182_ (falling edge-triggered flip-flop clocked by clk'),67.78
+ instr[4] (input port clocked by clk), riscv/dp/_19034_ (falling edge-triggered flip-flop clocked by clk'),65.56
+ instr[4] (input port clocked by clk), riscv/dp/_19278_ (falling edge-triggered flip-flop clocked by clk'),66.92
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19486_ (falling edge-triggered flip-flop clocked by clk'),-30.61
+ instr[4] (input port clocked by clk), riscv/dp/_19866_ (falling edge-triggered flip-flop clocked by clk'),65.55
+ instr[4] (input port clocked by clk), riscv/dp/_19403_ (falling edge-triggered flip-flop clocked by clk'),74.14
+ instr[4] (input port clocked by clk), riscv/dp/_18906_ (falling edge-triggered flip-flop clocked by clk'),66.29
+ instr[4] (input port clocked by clk), riscv/dp/_19180_ (falling edge-triggered flip-flop clocked by clk'),76.73
+ instr[4] (input port clocked by clk), riscv/dp/_19418_ (falling edge-triggered flip-flop clocked by clk'),65.27
+ instr[4] (input port clocked by clk), riscv/dp/_18956_ (falling edge-triggered flip-flop clocked by clk'),68.80
+ instr[4] (input port clocked by clk), riscv/dp/_19162_ (falling edge-triggered flip-flop clocked by clk'),67.97
+ instr[4] (input port clocked by clk), riscv/dp/_18891_ (falling edge-triggered flip-flop clocked by clk'),74.33
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19454_ (falling edge-triggered flip-flop clocked by clk'),-30.79
+ instr[4] (input port clocked by clk), riscv/dp/_19244_ (falling edge-triggered flip-flop clocked by clk'),76.47
+ instr[4] (input port clocked by clk), riscv/dp/_19354_ (falling edge-triggered flip-flop clocked by clk'),67.06
+ instr[4] (input port clocked by clk), riscv/dp/_19324_ (falling edge-triggered flip-flop clocked by clk'),67.12
+ instr[4] (input port clocked by clk), riscv/dp/_19691_ (falling edge-triggered flip-flop clocked by clk'),74.49
+ instr[4] (input port clocked by clk), riscv/dp/_19243_ (falling edge-triggered flip-flop clocked by clk'),74.28
+ instr[4] (input port clocked by clk), riscv/dp/_18892_ (falling edge-triggered flip-flop clocked by clk'),77.12
+ instr[4] (input port clocked by clk), riscv/dp/_19706_ (falling edge-triggered flip-flop clocked by clk'),66.25
+ instr[4] (input port clocked by clk), riscv/dp/_19659_ (falling edge-triggered flip-flop clocked by clk'),74.28
+ instr[4] (input port clocked by clk), riscv/dp/_19404_ (falling edge-triggered flip-flop clocked by clk'),77.07
+ instr[4] (input port clocked by clk), riscv/dp/_19532_ (falling edge-triggered flip-flop clocked by clk'),68.48
+ instr[4] (input port clocked by clk), riscv/dp/_18970_ (falling edge-triggered flip-flop clocked by clk'),65.96
+ instr[4] (input port clocked by clk), riscv/dp/_18870_ (falling edge-triggered flip-flop clocked by clk'),68.93
+ instr[4] (input port clocked by clk), riscv/dp/_19276_ (falling edge-triggered flip-flop clocked by clk'),68.60
+ instr[4] (input port clocked by clk), riscv/dp/_19610_ (falling edge-triggered flip-flop clocked by clk'),65.65
+ instr[4] (input port clocked by clk), riscv/dp/_19578_ (falling edge-triggered flip-flop clocked by clk'),65.99
+ instr[4] (input port clocked by clk), riscv/dp/_19766_ (falling edge-triggered flip-flop clocked by clk'),69.72
+ instr[4] (input port clocked by clk), riscv/dp/_19564_ (falling edge-triggered flip-flop clocked by clk'),68.49
+ instr[4] (input port clocked by clk), riscv/dp/_19147_ (falling edge-triggered flip-flop clocked by clk'),75.15
+ instr[4] (input port clocked by clk), riscv/dp/_19194_ (falling edge-triggered flip-flop clocked by clk'),65.96
+ instr[4] (input port clocked by clk), riscv/dp/_19275_ (falling edge-triggered flip-flop clocked by clk'),74.94
+ instr[4] (input port clocked by clk), riscv/dp/_19546_ (falling edge-triggered flip-flop clocked by clk'),65.83
+ instr[4] (input port clocked by clk), riscv/dp/_19179_ (falling edge-triggered flip-flop clocked by clk'),74.64
+ instr[4] (input port clocked by clk), riscv/dp/_19566_ (falling edge-triggered flip-flop clocked by clk'),69.38
+ instr[4] (input port clocked by clk), riscv/dp/_19734_ (falling edge-triggered flip-flop clocked by clk'),70.40
+ instr[4] (input port clocked by clk), riscv/dp/_19692_ (falling edge-triggered flip-flop clocked by clk'),76.67
+ instr[4] (input port clocked by clk), riscv/dp/_19340_ (falling edge-triggered flip-flop clocked by clk'),68.77
+ instr[4] (input port clocked by clk), riscv/dp/_19596_ (falling edge-triggered flip-flop clocked by clk'),77.06
+ instr[4] (input port clocked by clk), riscv/dp/_19674_ (falling edge-triggered flip-flop clocked by clk'),66.28
+ instr[4] (input port clocked by clk), riscv/dp/_18994_ (falling edge-triggered flip-flop clocked by clk'),68.90
+ instr[4] (input port clocked by clk), riscv/dp/_19258_ (falling edge-triggered flip-flop clocked by clk'),66.14
+ instr[4] (input port clocked by clk), riscv/dp/_19290_ (falling edge-triggered flip-flop clocked by clk'),70.80
+ instr[4] (input port clocked by clk), riscv/dp/_19858_ (falling edge-triggered flip-flop clocked by clk'),68.41
+ instr[4] (input port clocked by clk), riscv/dp/_18938_ (falling edge-triggered flip-flop clocked by clk'),66.31
+ instr[4] (input port clocked by clk), riscv/dp/_19026_ (falling edge-triggered flip-flop clocked by clk'),68.57
+ instr[4] (input port clocked by clk), riscv/dp/_19314_ (falling edge-triggered flip-flop clocked by clk'),68.98
+ instr[4] (input port clocked by clk), riscv/dp/_18867_ (falling edge-triggered flip-flop clocked by clk'),74.39
+ instr[4] (input port clocked by clk), riscv/dp/_19762_ (falling edge-triggered flip-flop clocked by clk'),68.25
+ instr[4] (input port clocked by clk), riscv/dp/_18862_ (falling edge-triggered flip-flop clocked by clk'),70.53
+ instr[4] (input port clocked by clk), riscv/dp/_18926_ (falling edge-triggered flip-flop clocked by clk'),69.10
+ instr[4] (input port clocked by clk), riscv/dp/_19058_ (falling edge-triggered flip-flop clocked by clk'),68.58
+ instr[4] (input port clocked by clk), riscv/dp/_19826_ (falling edge-triggered flip-flop clocked by clk'),68.28
+ instr[4] (input port clocked by clk), riscv/dp/_19218_ (falling edge-triggered flip-flop clocked by clk'),68.89
+ instr[4] (input port clocked by clk), riscv/dp/_19130_ (falling edge-triggered flip-flop clocked by clk'),71.06
+ instr[4] (input port clocked by clk), riscv/dp/_19150_ (falling edge-triggered flip-flop clocked by clk'),68.34
+ instr[4] (input port clocked by clk), riscv/dp/_19534_ (falling edge-triggered flip-flop clocked by clk'),67.75
+ instr[4] (input port clocked by clk), riscv/dp/_19531_ (falling edge-triggered flip-flop clocked by clk'),75.40
+ instr[4] (input port clocked by clk), riscv/dp/_19634_ (falling edge-triggered flip-flop clocked by clk'),68.61
+ instr[4] (input port clocked by clk), riscv/dp/_19118_ (falling edge-triggered flip-flop clocked by clk'),68.68
+ instr[4] (input port clocked by clk), riscv/dp/_19246_ (falling edge-triggered flip-flop clocked by clk'),68.30
+ instr[4] (input port clocked by clk), riscv/dp/_19598_ (falling edge-triggered flip-flop clocked by clk'),69.01
+ instr[4] (input port clocked by clk), riscv/dp/_19115_ (falling edge-triggered flip-flop clocked by clk'),75.76
+ instr[4] (input port clocked by clk), riscv/dp/_19730_ (falling edge-triggered flip-flop clocked by clk'),68.73
+ instr[4] (input port clocked by clk), riscv/dp/_19337_ (falling edge-triggered flip-flop clocked by clk'),107.80
+ instr[4] (input port clocked by clk), riscv/dp/_19595_ (falling edge-triggered flip-flop clocked by clk'),76.07
+ instr[4] (input port clocked by clk), riscv/dp/_19342_ (falling edge-triggered flip-flop clocked by clk'),67.27
+ instr[4] (input port clocked by clk), riscv/dp/_19563_ (falling edge-triggered flip-flop clocked by clk'),77.44
+ instr[4] (input port clocked by clk), riscv/dp/_19830_ (falling edge-triggered flip-flop clocked by clk'),71.30
+ instr[4] (input port clocked by clk), riscv/dp/_19570_ (falling edge-triggered flip-flop clocked by clk'),68.82
+ instr[4] (input port clocked by clk), riscv/dp/_19346_ (falling edge-triggered flip-flop clocked by clk'),68.41
+ instr[4] (input port clocked by clk), riscv/dp/_19602_ (falling edge-triggered flip-flop clocked by clk'),69.34
+ instr[4] (input port clocked by clk), riscv/dp/_19538_ (falling edge-triggered flip-flop clocked by clk'),68.48
+ instr[4] (input port clocked by clk), riscv/dp/_19116_ (falling edge-triggered flip-flop clocked by clk'),68.45
+ instr[4] (input port clocked by clk), riscv/dp/_18924_ (falling edge-triggered flip-flop clocked by clk'),68.48
+ instr[4] (input port clocked by clk), riscv/dp/_19660_ (falling edge-triggered flip-flop clocked by clk'),75.69
+ instr[4] (input port clocked by clk), riscv/dp/_19090_ (falling edge-triggered flip-flop clocked by clk'),69.02
+ instr[4] (input port clocked by clk), riscv/dp/_19148_ (falling edge-triggered flip-flop clocked by clk'),69.16
+ instr[4] (input port clocked by clk), riscv/dp/_19506_ (falling edge-triggered flip-flop clocked by clk'),68.35
+ instr[4] (input port clocked by clk), riscv/dp/_18962_ (falling edge-triggered flip-flop clocked by clk'),69.38
+ instr[4] (input port clocked by clk), riscv/dp/_18906_ (falling edge-triggered flip-flop clocked by clk'),66.29
+ instr[4] (input port clocked by clk), riscv/dp/_19180_ (falling edge-triggered flip-flop clocked by clk'),76.73
+ instr[4] (input port clocked by clk), riscv/dp/_19442_ (falling edge-triggered flip-flop clocked by clk'),68.29
+ instr[4] (input port clocked by clk), riscv/dp/_19474_ (falling edge-triggered flip-flop clocked by clk'),68.10
+ instr[4] (input port clocked by clk), riscv/dp/_19378_ (falling edge-triggered flip-flop clocked by clk'),68.86
+ instr[4] (input port clocked by clk), riscv/dp/_19418_ (falling edge-triggered flip-flop clocked by clk'),65.27
+ instr[4] (input port clocked by clk), riscv/dp/_18956_ (falling edge-triggered flip-flop clocked by clk'),68.80
+ instr[4] (input port clocked by clk), riscv/dp/_19162_ (falling edge-triggered flip-flop clocked by clk'),67.97
+ instr[4] (input port clocked by clk), riscv/dp/_19244_ (falling edge-triggered flip-flop clocked by clk'),76.47
+ instr[4] (input port clocked by clk), riscv/dp/_19354_ (falling edge-triggered flip-flop clocked by clk'),67.06
+ instr[4] (input port clocked by clk), riscv/dp/_18892_ (falling edge-triggered flip-flop clocked by clk'),77.12
+ instr[4] (input port clocked by clk), riscv/dp/_19706_ (falling edge-triggered flip-flop clocked by clk'),66.25
+ instr[4] (input port clocked by clk), riscv/dp/_19404_ (falling edge-triggered flip-flop clocked by clk'),77.07
+ instr[4] (input port clocked by clk), riscv/dp/_19532_ (falling edge-triggered flip-flop clocked by clk'),68.48
+ instr[4] (input port clocked by clk), riscv/dp/_18874_ (falling edge-triggered flip-flop clocked by clk'),72.24
+ instr[4] (input port clocked by clk), riscv/dp/_18970_ (falling edge-triggered flip-flop clocked by clk'),65.96
+ instr[4] (input port clocked by clk), riscv/dp/_19276_ (falling edge-triggered flip-flop clocked by clk'),68.60
+ instr[4] (input port clocked by clk), riscv/dp/_19610_ (falling edge-triggered flip-flop clocked by clk'),65.65
+ instr[4] (input port clocked by clk), riscv/dp/_19578_ (falling edge-triggered flip-flop clocked by clk'),65.99
+ instr[4] (input port clocked by clk), riscv/dp/_19766_ (falling edge-triggered flip-flop clocked by clk'),69.72
+ instr[4] (input port clocked by clk), riscv/dp/_19564_ (falling edge-triggered flip-flop clocked by clk'),68.49
+ instr[4] (input port clocked by clk), riscv/dp/_19194_ (falling edge-triggered flip-flop clocked by clk'),65.96
+ instr[4] (input port clocked by clk), riscv/dp/_18930_ (falling edge-triggered flip-flop clocked by clk'),68.89
+ instr[4] (input port clocked by clk), riscv/dp/_19318_ (falling edge-triggered flip-flop clocked by clk'),72.39
+ instr[4] (input port clocked by clk), riscv/dp/_19546_ (falling edge-triggered flip-flop clocked by clk'),65.83
+ instr[4] (input port clocked by clk), riscv/dp/_19734_ (falling edge-triggered flip-flop clocked by clk'),70.40
+ instr[4] (input port clocked by clk), riscv/dp/_19692_ (falling edge-triggered flip-flop clocked by clk'),76.67
+ instr[4] (input port clocked by clk), riscv/dp/_19666_ (falling edge-triggered flip-flop clocked by clk'),68.79
+ instr[4] (input port clocked by clk), riscv/dp/_19340_ (falling edge-triggered flip-flop clocked by clk'),68.77
+ instr[4] (input port clocked by clk), riscv/dp/_19698_ (falling edge-triggered flip-flop clocked by clk'),69.06
+ instr[4] (input port clocked by clk), riscv/dp/_19596_ (falling edge-triggered flip-flop clocked by clk'),77.06
+ instr[4] (input port clocked by clk), riscv/dp/_19674_ (falling edge-triggered flip-flop clocked by clk'),66.28
+ instr[4] (input port clocked by clk), riscv/dp/_19410_ (falling edge-triggered flip-flop clocked by clk'),70.47
+ instr[4] (input port clocked by clk), riscv/dp/_19250_ (falling edge-triggered flip-flop clocked by clk'),70.90
+ instr[4] (input port clocked by clk), riscv/dp/_18994_ (falling edge-triggered flip-flop clocked by clk'),68.90
+ instr[4] (input port clocked by clk), riscv/dp/_19258_ (falling edge-triggered flip-flop clocked by clk'),66.14
+ instr[4] (input port clocked by clk), riscv/dp/_19290_ (falling edge-triggered flip-flop clocked by clk'),70.80
+ instr[4] (input port clocked by clk), riscv/dp/_19858_ (falling edge-triggered flip-flop clocked by clk'),68.41
+ instr[4] (input port clocked by clk), riscv/dp/_18938_ (falling edge-triggered flip-flop clocked by clk'),66.31
+ instr[4] (input port clocked by clk), riscv/dp/_19026_ (falling edge-triggered flip-flop clocked by clk'),68.57
+ instr[4] (input port clocked by clk), riscv/dp/_19314_ (falling edge-triggered flip-flop clocked by clk'),68.98
+ instr[4] (input port clocked by clk), riscv/dp/_19762_ (falling edge-triggered flip-flop clocked by clk'),68.25
+ instr[4] (input port clocked by clk), riscv/dp/_18862_ (falling edge-triggered flip-flop clocked by clk'),70.53
+ instr[4] (input port clocked by clk), riscv/dp/_19187_ (falling edge-triggered flip-flop clocked by clk'),78.63
+ instr[4] (input port clocked by clk), riscv/dp/_18898_ (falling edge-triggered flip-flop clocked by clk'),69.21
+ instr[4] (input port clocked by clk), riscv/dp/_19058_ (falling edge-triggered flip-flop clocked by clk'),68.58
+ instr[4] (input port clocked by clk), riscv/dp/_19826_ (falling edge-triggered flip-flop clocked by clk'),68.28
+ instr[4] (input port clocked by clk), riscv/dp/_19218_ (falling edge-triggered flip-flop clocked by clk'),68.89
+ instr[4] (input port clocked by clk), riscv/dp/_19130_ (falling edge-triggered flip-flop clocked by clk'),71.06
+ instr[4] (input port clocked by clk), riscv/dp/_18899_ (falling edge-triggered flip-flop clocked by clk'),78.65
+ instr[4] (input port clocked by clk), riscv/dp/_19186_ (falling edge-triggered flip-flop clocked by clk'),69.56
+ instr[4] (input port clocked by clk), riscv/dp/_19251_ (falling edge-triggered flip-flop clocked by clk'),79.03
+ instr[4] (input port clocked by clk), riscv/dp/_19634_ (falling edge-triggered flip-flop clocked by clk'),68.61
+ instr[4] (input port clocked by clk), riscv/dp/_19282_ (falling edge-triggered flip-flop clocked by clk'),69.89
+ instr[4] (input port clocked by clk), riscv/dp/_19730_ (falling edge-triggered flip-flop clocked by clk'),68.73
+ instr[4] (input port clocked by clk), riscv/dp/_18931_ (falling edge-triggered flip-flop clocked by clk'),64.90
+ instr[4] (input port clocked by clk), riscv/dp/_19699_ (falling edge-triggered flip-flop clocked by clk'),64.66
+ instr[4] (input port clocked by clk), riscv/dp/_19155_ (falling edge-triggered flip-flop clocked by clk'),79.44
+ instr[4] (input port clocked by clk), riscv/dp/_18963_ (falling edge-triggered flip-flop clocked by clk'),64.84
+ instr[4] (input port clocked by clk), riscv/dp/_19667_ (falling edge-triggered flip-flop clocked by clk'),65.08
+ instr[4] (input port clocked by clk), riscv/dp/_19830_ (falling edge-triggered flip-flop clocked by clk'),71.30
+ instr[4] (input port clocked by clk), riscv/dp/_19570_ (falling edge-triggered flip-flop clocked by clk'),68.82
+ instr[4] (input port clocked by clk), riscv/dp/_19346_ (falling edge-triggered flip-flop clocked by clk'),68.41
+ instr[4] (input port clocked by clk), riscv/dp/_19602_ (falling edge-triggered flip-flop clocked by clk'),69.34
+ instr[4] (input port clocked by clk), riscv/dp/_19123_ (falling edge-triggered flip-flop clocked by clk'),79.62
+ instr[4] (input port clocked by clk), riscv/dp/_19411_ (falling edge-triggered flip-flop clocked by clk'),78.92
+ instr[4] (input port clocked by clk), riscv/dp/_19835_ (falling edge-triggered flip-flop clocked by clk'),78.69
+ instr[4] (input port clocked by clk), riscv/dp/_19538_ (falling edge-triggered flip-flop clocked by clk'),68.48
+ instr[4] (input port clocked by clk), riscv/dp/_19122_ (falling edge-triggered flip-flop clocked by clk'),70.81
+ instr[4] (input port clocked by clk), riscv/dp/_19739_ (falling edge-triggered flip-flop clocked by clk'),78.86
+ instr[4] (input port clocked by clk), riscv/dp/_19283_ (falling edge-triggered flip-flop clocked by clk'),79.59
+ instr[4] (input port clocked by clk), riscv/dp/_19515_ (falling edge-triggered flip-flop clocked by clk'),78.87
+ instr[4] (input port clocked by clk), riscv/dp/_19090_ (falling edge-triggered flip-flop clocked by clk'),69.02
+ instr[4] (input port clocked by clk), riscv/dp/_19506_ (falling edge-triggered flip-flop clocked by clk'),68.35
+ instr[4] (input port clocked by clk), riscv/dp/_18962_ (falling edge-triggered flip-flop clocked by clk'),69.38
+ instr[4] (input port clocked by clk), riscv/dp/_19442_ (falling edge-triggered flip-flop clocked by clk'),68.29
+ instr[4] (input port clocked by clk), riscv/dp/_19474_ (falling edge-triggered flip-flop clocked by clk'),68.10
+ instr[4] (input port clocked by clk), riscv/dp/_19378_ (falling edge-triggered flip-flop clocked by clk'),68.86
+ instr[4] (input port clocked by clk), riscv/dp/_19154_ (falling edge-triggered flip-flop clocked by clk'),71.26
+ instr[4] (input port clocked by clk), riscv/dp/_18874_ (falling edge-triggered flip-flop clocked by clk'),72.24
+ instr[4] (input port clocked by clk), riscv/dp/_19603_ (falling edge-triggered flip-flop clocked by clk'),80.65
+ instr[4] (input port clocked by clk), riscv/dp/_19451_ (falling edge-triggered flip-flop clocked by clk'),79.14
+ instr[4] (input port clocked by clk), riscv/dp/_19347_ (falling edge-triggered flip-flop clocked by clk'),80.47
+ instr[4] (input port clocked by clk), riscv/dp/_18930_ (falling edge-triggered flip-flop clocked by clk'),68.89
+ instr[4] (input port clocked by clk), riscv/dp/_19571_ (falling edge-triggered flip-flop clocked by clk'),80.48
+ instr[4] (input port clocked by clk), riscv/dp/_19318_ (falling edge-triggered flip-flop clocked by clk'),72.39
+ instr[4] (input port clocked by clk), riscv/dp/_19003_ (falling edge-triggered flip-flop clocked by clk'),78.32
+ instr[4] (input port clocked by clk), riscv/dp/_19666_ (falling edge-triggered flip-flop clocked by clk'),68.79
+ instr[4] (input port clocked by clk), riscv/dp/_19227_ (falling edge-triggered flip-flop clocked by clk'),78.45
+ instr[4] (input port clocked by clk), riscv/dp/_19698_ (falling edge-triggered flip-flop clocked by clk'),69.06
+ instr[4] (input port clocked by clk), riscv/dp/_19580_ (falling edge-triggered flip-flop clocked by clk'),61.19
+ instr[4] (input port clocked by clk), riscv/dp/_19410_ (falling edge-triggered flip-flop clocked by clk'),70.47
+ instr[4] (input port clocked by clk), riscv/dp/_19250_ (falling edge-triggered flip-flop clocked by clk'),70.90
+ instr[4] (input port clocked by clk), riscv/dp/_19387_ (falling edge-triggered flip-flop clocked by clk'),79.01
+ instr[4] (input port clocked by clk), riscv/dp/_19867_ (falling edge-triggered flip-flop clocked by clk'),79.15
+ instr[4] (input port clocked by clk), riscv/dp/_18907_ (falling edge-triggered flip-flop clocked by clk'),80.70
+ instr[4] (input port clocked by clk), riscv/dp/_19259_ (falling edge-triggered flip-flop clocked by clk'),80.10
+ instr[4] (input port clocked by clk), riscv/dp/_19291_ (falling edge-triggered flip-flop clocked by clk'),79.50
+ instr[4] (input port clocked by clk), riscv/dp/_19612_ (falling edge-triggered flip-flop clocked by clk'),61.25
+ instr[4] (input port clocked by clk), riscv/dp/_19356_ (falling edge-triggered flip-flop clocked by clk'),61.03
+ instr[4] (input port clocked by clk), riscv/dp/_19539_ (falling edge-triggered flip-flop clocked by clk'),80.78
+ instr[4] (input port clocked by clk), riscv/dp/_19187_ (falling edge-triggered flip-flop clocked by clk'),78.63
+ instr[4] (input port clocked by clk), riscv/dp/_18898_ (falling edge-triggered flip-flop clocked by clk'),69.21
+ instr[4] (input port clocked by clk), riscv/dp/_19132_ (falling edge-triggered flip-flop clocked by clk'),62.04
+ instr[4] (input port clocked by clk), riscv/dp/_19548_ (falling edge-triggered flip-flop clocked by clk'),60.87
+ instr[4] (input port clocked by clk), riscv/dp/_18899_ (falling edge-triggered flip-flop clocked by clk'),78.65
+ instr[4] (input port clocked by clk), riscv/dp/_19260_ (falling edge-triggered flip-flop clocked by clk'),62.20
+ instr[4] (input port clocked by clk), riscv/dp/_19164_ (falling edge-triggered flip-flop clocked by clk'),61.90
+ instr[4] (input port clocked by clk), riscv/dp/_19708_ (falling edge-triggered flip-flop clocked by clk'),61.66
+ instr[4] (input port clocked by clk), riscv/dp/_19186_ (falling edge-triggered flip-flop clocked by clk'),69.56
+ instr[4] (input port clocked by clk), riscv/dp/_19420_ (falling edge-triggered flip-flop clocked by clk'),61.96
+ instr[4] (input port clocked by clk), riscv/dp/_19251_ (falling edge-triggered flip-flop clocked by clk'),79.03
+ instr[4] (input port clocked by clk), riscv/dp/_19676_ (falling edge-triggered flip-flop clocked by clk'),61.71
+ instr[4] (input port clocked by clk), riscv/dp/_19292_ (falling edge-triggered flip-flop clocked by clk'),61.70
+ instr[4] (input port clocked by clk), riscv/dp/_18972_ (falling edge-triggered flip-flop clocked by clk'),62.23
+ instr[4] (input port clocked by clk), riscv/dp/_19282_ (falling edge-triggered flip-flop clocked by clk'),69.89
+ instr[4] (input port clocked by clk), riscv/dp/_19019_ (falling edge-triggered flip-flop clocked by clk'),83.09
+ instr[4] (input port clocked by clk), riscv/dp/_18987_ (falling edge-triggered flip-flop clocked by clk'),80.59
+ instr[4] (input port clocked by clk), riscv/dp/_19004_ (falling edge-triggered flip-flop clocked by clk'),61.68
+ instr[4] (input port clocked by clk), riscv/dp/_19868_ (falling edge-triggered flip-flop clocked by clk'),62.14
+ instr[4] (input port clocked by clk), riscv/dp/_19851_ (falling edge-triggered flip-flop clocked by clk'),82.44
+ instr[4] (input port clocked by clk), riscv/dp/_18931_ (falling edge-triggered flip-flop clocked by clk'),64.90
+ instr[4] (input port clocked by clk), riscv/dp/_18990_ (falling edge-triggered flip-flop clocked by clk'),74.14
+ instr[4] (input port clocked by clk), riscv/dp/_19699_ (falling edge-triggered flip-flop clocked by clk'),64.66
+ instr[4] (input port clocked by clk), riscv/dp/_19051_ (falling edge-triggered flip-flop clocked by clk'),80.97
+ instr[4] (input port clocked by clk), riscv/dp/_19155_ (falling edge-triggered flip-flop clocked by clk'),79.44
+ instr[4] (input port clocked by clk), riscv/dp/_18866_ (falling edge-triggered flip-flop clocked by clk'),72.43
+ instr[4] (input port clocked by clk), riscv/dp/_19054_ (falling edge-triggered flip-flop clocked by clk'),74.30
+ instr[4] (input port clocked by clk), riscv/dp/_18963_ (falling edge-triggered flip-flop clocked by clk'),64.84
+ instr[4] (input port clocked by clk), riscv/dp/_19667_ (falling edge-triggered flip-flop clocked by clk'),65.08
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19068_ (falling edge-triggered flip-flop clocked by clk'),-22.25
+ instr[4] (input port clocked by clk), riscv/dp/_19547_ (falling edge-triggered flip-flop clocked by clk'),79.54
+ instr[4] (input port clocked by clk), riscv/dp/_19611_ (falling edge-triggered flip-flop clocked by clk'),80.15
+ instr[4] (input port clocked by clk), riscv/dp/_19310_ (falling edge-triggered flip-flop clocked by clk'),75.85
+ instr[4] (input port clocked by clk), riscv/dp/_19755_ (falling edge-triggered flip-flop clocked by clk'),80.66
+ instr[4] (input port clocked by clk), riscv/dp/_19123_ (falling edge-triggered flip-flop clocked by clk'),79.62
+ instr[4] (input port clocked by clk), riscv/dp/_19438_ (falling edge-triggered flip-flop clocked by clk'),76.83
+ instr[4] (input port clocked by clk), riscv/dp/_19502_ (falling edge-triggered flip-flop clocked by clk'),75.68
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18940_ (falling edge-triggered flip-flop clocked by clk'),-22.56
+ instr[4] (input port clocked by clk), riscv/dp/_19035_ (falling edge-triggered flip-flop clocked by clk'),79.60
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18908_ (falling edge-triggered flip-flop clocked by clk'),-22.96
+ instr[4] (input port clocked by clk), riscv/dp/_19411_ (falling edge-triggered flip-flop clocked by clk'),78.92
+ instr[4] (input port clocked by clk), riscv/dp/_19307_ (falling edge-triggered flip-flop clocked by clk'),80.73
+ instr[4] (input port clocked by clk), riscv/dp/_19835_ (falling edge-triggered flip-flop clocked by clk'),78.69
+ instr[4] (input port clocked by clk), riscv/dp/_19122_ (falling edge-triggered flip-flop clocked by clk'),70.81
+ instr[4] (input port clocked by clk), riscv/dp/_19758_ (falling edge-triggered flip-flop clocked by clk'),76.20
+ instr[4] (input port clocked by clk), riscv/dp/_19822_ (falling edge-triggered flip-flop clocked by clk'),75.80
+ instr[4] (input port clocked by clk), riscv/dp/_19819_ (falling edge-triggered flip-flop clocked by clk'),80.99
+ instr[4] (input port clocked by clk), riscv/dp/_19470_ (falling edge-triggered flip-flop clocked by clk'),76.18
+ instr[4] (input port clocked by clk), riscv/dp/_19374_ (falling edge-triggered flip-flop clocked by clk'),76.14
+ instr[4] (input port clocked by clk), riscv/dp/_19723_ (falling edge-triggered flip-flop clocked by clk'),81.52
+ instr[4] (input port clocked by clk), riscv/dp/_19739_ (falling edge-triggered flip-flop clocked by clk'),78.86
+ instr[4] (input port clocked by clk), riscv/dp/_19283_ (falling edge-triggered flip-flop clocked by clk'),79.59
+ instr[4] (input port clocked by clk), riscv/dp/_19707_ (falling edge-triggered flip-flop clocked by clk'),80.80
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19196_ (falling edge-triggered flip-flop clocked by clk'),-22.60
+ instr[4] (input port clocked by clk), riscv/dp/_19515_ (falling edge-triggered flip-flop clocked by clk'),78.87
+ instr[4] (input port clocked by clk), riscv/dp/_19726_ (falling edge-triggered flip-flop clocked by clk'),76.25
+ instr[4] (input port clocked by clk), riscv/dp/_19499_ (falling edge-triggered flip-flop clocked by clk'),81.70
+ instr[4] (input port clocked by clk), riscv/dp/_19083_ (falling edge-triggered flip-flop clocked by clk'),81.57
+ instr[4] (input port clocked by clk), riscv/dp/_19022_ (falling edge-triggered flip-flop clocked by clk'),75.02
+ instr[4] (input port clocked by clk), riscv/dp/_19854_ (falling edge-triggered flip-flop clocked by clk'),76.55
+ instr[4] (input port clocked by clk), riscv/dp/_19154_ (falling edge-triggered flip-flop clocked by clk'),71.26
+ instr[4] (input port clocked by clk), riscv/dp/_19675_ (falling edge-triggered flip-flop clocked by clk'),80.59
+ instr[4] (input port clocked by clk), riscv/dp/_19211_ (falling edge-triggered flip-flop clocked by clk'),81.50
+ instr[4] (input port clocked by clk), riscv/dp/_19627_ (falling edge-triggered flip-flop clocked by clk'),81.86
+ instr[4] (input port clocked by clk), riscv/dp/_19630_ (falling edge-triggered flip-flop clocked by clk'),76.19
+ instr[4] (input port clocked by clk), riscv/dp/_19603_ (falling edge-triggered flip-flop clocked by clk'),80.65
+ instr[4] (input port clocked by clk), riscv/dp/_19451_ (falling edge-triggered flip-flop clocked by clk'),79.14
+ instr[4] (input port clocked by clk), riscv/dp/_19347_ (falling edge-triggered flip-flop clocked by clk'),80.47
+ instr[4] (input port clocked by clk), riscv/dp/_19571_ (falling edge-triggered flip-flop clocked by clk'),80.48
+ instr[4] (input port clocked by clk), riscv/dp/_19003_ (falling edge-triggered flip-flop clocked by clk'),78.32
+ instr[4] (input port clocked by clk), riscv/dp/_19227_ (falling edge-triggered flip-flop clocked by clk'),78.45
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19036_ (falling edge-triggered flip-flop clocked by clk'),-21.68
+ instr[4] (input port clocked by clk), riscv/dp/_19086_ (falling edge-triggered flip-flop clocked by clk'),76.83
+ instr[4] (input port clocked by clk), riscv/dp/_18971_ (falling edge-triggered flip-flop clocked by clk'),82.46
+ instr[4] (input port clocked by clk), riscv/dp/_19214_ (falling edge-triggered flip-flop clocked by clk'),76.97
+ instr[4] (input port clocked by clk), riscv/dp/_19387_ (falling edge-triggered flip-flop clocked by clk'),79.01
+ instr[4] (input port clocked by clk), riscv/dp/_19867_ (falling edge-triggered flip-flop clocked by clk'),79.15
+ instr[4] (input port clocked by clk), riscv/dp/_18907_ (falling edge-triggered flip-flop clocked by clk'),80.70
+ instr[4] (input port clocked by clk), riscv/dp/_19259_ (falling edge-triggered flip-flop clocked by clk'),80.10
+ instr[4] (input port clocked by clk), riscv/dp/_19291_ (falling edge-triggered flip-flop clocked by clk'),79.50
+ instr[4] (input port clocked by clk), riscv/dp/_19539_ (falling edge-triggered flip-flop clocked by clk'),80.78
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19100_ (falling edge-triggered flip-flop clocked by clk'),-22.21
+ instr[4] (input port clocked by clk), riscv/dp/_19019_ (falling edge-triggered flip-flop clocked by clk'),83.09
+ instr[4] (input port clocked by clk), riscv/dp/_18987_ (falling edge-triggered flip-flop clocked by clk'),80.59
+ instr[4] (input port clocked by clk), riscv/dp/_19467_ (falling edge-triggered flip-flop clocked by clk'),82.75
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19228_ (falling edge-triggered flip-flop clocked by clk'),-21.97
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19644_ (falling edge-triggered flip-flop clocked by clk'),-22.11
+ instr[4] (input port clocked by clk), riscv/dp/_19851_ (falling edge-triggered flip-flop clocked by clk'),82.44
+ instr[4] (input port clocked by clk), riscv/dp/_18990_ (falling edge-triggered flip-flop clocked by clk'),74.14
+ instr[4] (input port clocked by clk), riscv/dp/_19051_ (falling edge-triggered flip-flop clocked by clk'),80.97
+ instr[4] (input port clocked by clk), riscv/dp/_18866_ (falling edge-triggered flip-flop clocked by clk'),72.43
+ instr[4] (input port clocked by clk), riscv/dp/_19054_ (falling edge-triggered flip-flop clocked by clk'),74.30
+ instr[4] (input port clocked by clk), riscv/dp/_19547_ (falling edge-triggered flip-flop clocked by clk'),79.54
+ instr[4] (input port clocked by clk), riscv/dp/_19611_ (falling edge-triggered flip-flop clocked by clk'),80.15
+ instr[4] (input port clocked by clk), riscv/dp/_19310_ (falling edge-triggered flip-flop clocked by clk'),75.85
+ instr[4] (input port clocked by clk), riscv/dp/_19755_ (falling edge-triggered flip-flop clocked by clk'),80.66
+ instr[4] (input port clocked by clk), riscv/dp/_19419_ (falling edge-triggered flip-flop clocked by clk'),81.67
+ instr[4] (input port clocked by clk), riscv/dp/_19438_ (falling edge-triggered flip-flop clocked by clk'),76.83
+ instr[4] (input port clocked by clk), riscv/dp/_19502_ (falling edge-triggered flip-flop clocked by clk'),75.68
+ instr[4] (input port clocked by clk), riscv/dp/_19035_ (falling edge-triggered flip-flop clocked by clk'),79.60
+ instr[4] (input port clocked by clk), riscv/dp/_19307_ (falling edge-triggered flip-flop clocked by clk'),80.73
+ instr[4] (input port clocked by clk), riscv/dp/_19731_ (falling edge-triggered flip-flop clocked by clk'),83.30
+ instr[4] (input port clocked by clk), riscv/dp/_19758_ (falling edge-triggered flip-flop clocked by clk'),76.20
+ instr[4] (input port clocked by clk), riscv/dp/_19822_ (falling edge-triggered flip-flop clocked by clk'),75.80
+ instr[4] (input port clocked by clk), riscv/dp/_19827_ (falling edge-triggered flip-flop clocked by clk'),83.05
+ instr[4] (input port clocked by clk), riscv/dp/_19831_ (falling edge-triggered flip-flop clocked by clk'),76.41
+ instr[4] (input port clocked by clk), riscv/dp/_19819_ (falling edge-triggered flip-flop clocked by clk'),80.99
+ instr[4] (input port clocked by clk), riscv/dp/_19470_ (falling edge-triggered flip-flop clocked by clk'),76.18
+ instr[4] (input port clocked by clk), riscv/dp/_19374_ (falling edge-triggered flip-flop clocked by clk'),76.14
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19484_ (falling edge-triggered flip-flop clocked by clk'),-20.46
+ instr[4] (input port clocked by clk), riscv/dp/_19723_ (falling edge-triggered flip-flop clocked by clk'),81.52
+ instr[4] (input port clocked by clk), riscv/dp/_19707_ (falling edge-triggered flip-flop clocked by clk'),80.80
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk),417.04
+ instr[4] (input port clocked by clk), riscv/dp/_19371_ (falling edge-triggered flip-flop clocked by clk'),83.15
+ instr[4] (input port clocked by clk), riscv/dp/_19726_ (falling edge-triggered flip-flop clocked by clk'),76.25
+ instr[4] (input port clocked by clk), riscv/dp/_19863_ (falling edge-triggered flip-flop clocked by clk'),76.73
+ instr[4] (input port clocked by clk), riscv/dp/_19499_ (falling edge-triggered flip-flop clocked by clk'),81.70
+ instr[4] (input port clocked by clk), riscv/dp/_19083_ (falling edge-triggered flip-flop clocked by clk'),81.57
+ instr[4] (input port clocked by clk), riscv/dp/_19022_ (falling edge-triggered flip-flop clocked by clk'),75.02
+ instr[4] (input port clocked by clk), riscv/dp/_19854_ (falling edge-triggered flip-flop clocked by clk'),76.55
+ instr[4] (input port clocked by clk), riscv/dp/_19675_ (falling edge-triggered flip-flop clocked by clk'),80.59
+ instr[4] (input port clocked by clk), riscv/dp/_19059_ (falling edge-triggered flip-flop clocked by clk'),82.87
+ instr[4] (input port clocked by clk), riscv/dp/_19319_ (falling edge-triggered flip-flop clocked by clk'),77.61
+ instr[4] (input port clocked by clk), riscv/dp/_19219_ (falling edge-triggered flip-flop clocked by clk'),83.95
+ instr[4] (input port clocked by clk), riscv/dp/_19027_ (falling edge-triggered flip-flop clocked by clk'),82.26
+ instr[4] (input port clocked by clk), riscv/dp/_19063_ (falling edge-triggered flip-flop clocked by clk'),76.81
+ instr[4] (input port clocked by clk), riscv/dp/_19763_ (falling edge-triggered flip-flop clocked by clk'),85.85
+ instr[4] (input port clocked by clk), riscv/dp/_19859_ (falling edge-triggered flip-flop clocked by clk'),82.70
+ instr[4] (input port clocked by clk), riscv/dp/_19211_ (falling edge-triggered flip-flop clocked by clk'),81.50
+ instr[4] (input port clocked by clk), riscv/dp/_18995_ (falling edge-triggered flip-flop clocked by clk'),82.93
+ instr[4] (input port clocked by clk), riscv/dp/_19475_ (falling edge-triggered flip-flop clocked by clk'),83.20
+ instr[4] (input port clocked by clk), riscv/dp/_19091_ (falling edge-triggered flip-flop clocked by clk'),85.31
+ instr[4] (input port clocked by clk), riscv/dp/_19635_ (falling edge-triggered flip-flop clocked by clk'),84.31
+ instr[4] (input port clocked by clk), riscv/dp/_19315_ (falling edge-triggered flip-flop clocked by clk'),84.43
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18859_ (falling edge-triggered flip-flop clocked by clk'),-13.89
+ instr[4] (input port clocked by clk), riscv/dp/_19627_ (falling edge-triggered flip-flop clocked by clk'),81.86
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19630_ (falling edge-triggered flip-flop clocked by clk'),-8.61
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19767_ (falling edge-triggered flip-flop clocked by clk'),-6.86
+ instr[4] (input port clocked by clk), riscv/dp/_19630_ (falling edge-triggered flip-flop clocked by clk'),76.19
+ instr[4] (input port clocked by clk), riscv/dp/_19767_ (falling edge-triggered flip-flop clocked by clk'),77.94
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19702_ (falling edge-triggered flip-flop clocked by clk'),-19.55
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19670_ (falling edge-triggered flip-flop clocked by clk'),-19.73
+ instr[4] (input port clocked by clk), riscv/dp/_19479_ (falling edge-triggered flip-flop clocked by clk'),77.12
+ instr[4] (input port clocked by clk), riscv/dp/_19435_ (falling edge-triggered flip-flop clocked by clk'),83.89
+ instr[4] (input port clocked by clk), riscv/dp/_19447_ (falling edge-triggered flip-flop clocked by clk'),76.90
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18902_ (falling edge-triggered flip-flop clocked by clk'),-19.76
+ instr[4] (input port clocked by clk), riscv/dp/_19507_ (falling edge-triggered flip-flop clocked by clk'),83.08
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19158_ (falling edge-triggered flip-flop clocked by clk'),-19.19
+ instr[4] (input port clocked by clk), riscv/dp/_19511_ (falling edge-triggered flip-flop clocked by clk'),77.86
+ instr[4] (input port clocked by clk), riscv/dp/_18875_ (falling edge-triggered flip-flop clocked by clk'),83.22
+ instr[4] (input port clocked by clk), riscv/dp/_19379_ (falling edge-triggered flip-flop clocked by clk'),83.54
+ instr[4] (input port clocked by clk), riscv/dp/_19031_ (falling edge-triggered flip-flop clocked by clk'),76.86
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19286_ (falling edge-triggered flip-flop clocked by clk'),-19.31
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19126_ (falling edge-triggered flip-flop clocked by clk'),-19.25
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19574_ (falling edge-triggered flip-flop clocked by clk'),-19.74
+ instr[4] (input port clocked by clk), riscv/dp/_19086_ (falling edge-triggered flip-flop clocked by clk'),76.83
+ instr[4] (input port clocked by clk), riscv/dp/_18971_ (falling edge-triggered flip-flop clocked by clk'),82.46
+ instr[4] (input port clocked by clk), riscv/dp/_19214_ (falling edge-triggered flip-flop clocked by clk'),76.97
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_19190_ (falling edge-triggered flip-flop clocked by clk'),-19.72
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18966_ (falling edge-triggered flip-flop clocked by clk'),-18.35
+ riscv/dp/_19901_ (rising edge-triggered flip-flop clocked by clk), riscv/dp/_18934_ (falling edge-triggered flip-flop clocked by clk'),-19.01
